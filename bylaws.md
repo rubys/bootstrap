@@ -4,18 +4,22 @@ Changelog:
 * Converted to text using "pdftotext -layout", using pdftotext version 0.62.0.
 * Convert ARTICLEs and Sections to Markdown
 * Remove page breaks
+* Change smart quotes and apostrophes to ASCII
+* Change JS Foundation to $FOUNDATION
+
+BY-LAWS OF $FOUNDATION
 
 ## ARTICLE I - NAME, PURPOSE AND OFFICES
 
 ### Section 1.1 - Name
 
-The name of the corporation is “JSFoundation, Inc” and the corporation is referred to in these By-laws as
-the “JS Foundation.”
+The name of the corporation is "$FOUNDATION" and the corporation is referred to in these By-laws as
+the "$FOUNDATION"
 
 ### Section 1.2 - Principal Office
 
-The principal office of the JS Foundation shall be located at 1 Letterman Drive, Suite D4700, San
-Francisco, CA 94129. The Board of Directors of the JS Foundation (the “Board”) is hereby granted full
+The principal office of the $FOUNDATION shall be located at 1 Letterman Drive, Suite D4700, San
+Francisco, CA 94129. The Board of Directors of the $FOUNDATION (the "Board") is hereby granted full
 power and authority to change its principal office from one location to another both within and without said
 state.
 
@@ -25,39 +29,38 @@ Branch or subordinate offices may at any time be established by the Board at any
 
 ### Section 1.4 - Purpose
 
-(a)       The nature of the business or purposes to be conducted or promoted by the JS Foundation is to
+(a)       The nature of the business or purposes to be conducted or promoted by the $FOUNDATION is to
 engage in any lawful act or activity for which corporations that are organized not for profit may be
-organized under the General Corporation Law of Delaware. The primary purpose of the JS Foundation
-(collectively, “the Purpose”) is to: (i) drive widespread adoption and continued development of key
+organized under the General Corporation Law of Delaware. The primary purpose of the $FOUNDATION
+(collectively, "the Purpose") is to: (i) drive widespread adoption and continued development of key
 JavaScript solutions and related technologies; (ii) facilitate collaboration within the JavaScript development
 community; (iii) create a center of gravity for open source projects throughout the end-to-end JavaScript
 ecosystem guiding them toward open governance and diverse collaborator bases; (iv) host the infrastructure
-to support hosted open source projects (the “Projects”); (v) enable, through advancement of the JS
-Foundation’s projects and strategic partnerships, an open and accessible web; and (vi) undertake such other
+to support hosted open source projects (the "Projects"); (v) enable, through advancement of the $FOUNDATION's projects and strategic partnerships, an open and accessible web; and (vi) undertake such other
 activities as may from time to time be appropriate to further the purposes and achieve the goals set forth
 above.
 
-(b)       The JS Foundation will promote the Projects. Subject to Section 13.3, Members are expected to
+(b)       The $FOUNDATION will promote the Projects. Subject to Section 13.3, Members are expected to
 support the design, development, or application of hardware or software products that will implement one
-or more Projects. In furtherance of these efforts, the JS Foundation shall seek to solicit the participation of
+or more Projects. In furtherance of these efforts, the $FOUNDATION shall seek to solicit the participation of
 all interested parties on a fair, equitable and open basis in the Projects.
-(c)       In support of such purpose, the JS Foundation may engage in some or all of the following
+(c)       In support of such purpose, the $FOUNDATION may engage in some or all of the following
 activities: (i) drive the development of, disseminate, support and maintain the Projects; (ii) create and own
 distinctive trademarks, service marks and/or certification marks; (iii) administer or subcontract a branding
 program; (iv) create various printed and/or electronic materials for distribution to members and non-
 members; (v) maintain its own website; (vi) coordinate the promotion of the Projects among members and
 non-members, as well as create basic marketing promotional collateral (e.g., both web pages as well as
 tangible materials); and (vii) undertake those other activities as the Board may from time to time approve
-consistent with and in furtherance of the JS Foundation’s purpose.
+consistent with and in furtherance of the $FOUNDATION's purpose.
 
 ### Section 1.5 - Nonprofit Status
 
-(a)      The JS Foundation is organized and shall be operated as a non-stock, not for profit membership
+(a)      The $FOUNDATION is organized and shall be operated as a non-stock, not for profit membership
 corporation organized under the General Corporation Law of the State of Delaware.
 
-(b)       The JS Foundation has sought and received exemption from Federal taxation pursuant to Section
-501(a) of the Internal Revenue Code of 1986, as amended (hereinafter, the “Code”). Until such time, if
-ever, as such exemption is denied or lost, the JS Foundation shall not knowingly engage directly or
+(b)       The $FOUNDATION has sought and received exemption from Federal taxation pursuant to Section
+501(a) of the Internal Revenue Code of 1986, as amended (hereinafter, the "Code"). Until such time, if
+ever, as such exemption is denied or lost, the $FOUNDATION shall not knowingly engage directly or
 indirectly in any activity that it believes would be likely to invalidate its status as an organization exempt
 from federal income taxation under Section 501(a) of the Code as an organization described in Section
 501(c) of the Code. All references to the Code contained herein are deemed to include corresponding
@@ -70,33 +73,33 @@ provisions of any future United States Internal Revenue Law.
 
 ### Section 2.1 - Classes of Membership
 
-The JS Foundation shall have four classes of membership: (i) Platinum Members, (ii) Gold Members, (iii)
+The $FOUNDATION shall have four classes of membership: (i) Platinum Members, (ii) Gold Members, (iii)
 Silver Members, and (iv) Associate Members. Additional classes of voting and non-voting members may
 be created in the future, and the rights of existing classes of members may be amended, in each case
-pursuant to Section 2.9 of these By-laws. All memberships in the JS Foundation are collectively referred to
-in these By-laws as “Memberships”, and a person or entity holding Membership is referred to in these By-
-laws as a “Member”. Any present and future classes of members that are entitled to voting rights shall be
-collectively referred to as “Voting Members.”
+pursuant to Section 2.9 of these By-laws. All memberships in the $FOUNDATION are collectively referred to
+in these By-laws as "Memberships", and a person or entity holding Membership is referred to in these By-
+laws as a "Member". Any present and future classes of members that are entitled to voting rights shall be
+collectively referred to as "Voting Members."
 
 ### Section 2.2 - Conditions and Term of Membership
 
 (a)       Any association, partnership, organization, governmental agency, company, corporation, academic
 entity, or non-profit entity shall be admitted to Membership upon: (i) acceptance of its written application
-on such form as may be from time to time required by the JS Foundation (which acceptance shall be
+on such form as may be from time to time required by the $FOUNDATION (which acceptance shall be
 administered in a non-discriminatory fashion), (ii) satisfaction of such other conditions, including without
 limitation requirements for in-kind contributions (e.g. assignment of dedicated developers and maintainers
 to projects), as may from time to time be established by the Board for such class of Membership, if any,
 and (iii) unless otherwise provided by the Board, payment of such application fees, assessments, initiation
 fees, annual dues or other fees for such class of Membership as may from time to time be established by the
-Board, if any (collectively, “Fees”). A Member shall remain in good standing as a Member provided such
-Member is in compliance with the terms and conditions of the JS Foundation’s Certificate of Incorporation,
+Board, if any (collectively, "Fees"). A Member shall remain in good standing as a Member provided such
+Member is in compliance with the terms and conditions of the $FOUNDATION's Certificate of Incorporation,
 By-laws, Membership Application, and such rules and policies (and the terms of any agreements required
-thereby) as the Board and/or any committees thereof (each a “Board Committee”) may from time to time
+thereby) as the Board and/or any committees thereof (each a "Board Committee") may from time to time
 adopt, and is current in its fulfillment of all in-kind commitments and payment of all Fees and penalties for
 late payment as may be required or determined by the Board (such Fees and penalties are collectively
 
-referred to in the By-laws as “Financial Obligations”, and all of the foregoing good standing requirements
-are collectively referred to in these By-laws as “Membership Obligations”).
+referred to in the By-laws as "Financial Obligations", and all of the foregoing good standing requirements
+are collectively referred to in these By-laws as "Membership Obligations").
 
 (b)      The Membership of each Member shall renew automatically after the initial and each subsequent
 term unless such Member provides timely written notice (as from time to time established by the Board of
@@ -109,13 +112,13 @@ commencing for its existing class of Membership.
 Each Platinum Member, while in good standing, shall be entitled to:
 
 (a) subject to the limitations of Section 4.3(a) of these By-laws, appoint one representative to serve as a
-    member of the Board (a “Director”), in accordance with such Section;
+    member of the Board (a "Director"), in accordance with such Section;
 
 (b) if such Platinum Member has a Director representative, nominate a Director to run for election as an
-    officer of the JS Foundation (each an “Officer”);
+    officer of the $FOUNDATION (each an "Officer");
 
 (c) appoint one voting representative, on a one vote per Member basis, to each Member Committee thereof
-    that the JS Foundation may establish; and
+    that the $FOUNDATION may establish; and
 
 (d) appoint and maintain one representative on the Technical Advisory Committee; and
 
@@ -143,13 +146,13 @@ Each Silver Member, while in good standing, shall be entitled to:
 
 (b) vote on each matter submitted to a vote of the Voting Members;
 
-(c) listing as a Member at the JS Foundation's Web site and in other appropriate promotional materials;
+(c) listing as a Member at the $FOUNDATION's Web site and in other appropriate promotional materials;
 
-(d) display the JS Foundation logo on such Member’s Web site and in other appropriate materials to
-    indicate membership in the JS Foundation, subject to such guidelines relating to the JS Foundation's
+(d) display the $FOUNDATION logo on such Member's Web site and in other appropriate materials to
+    indicate membership in the $FOUNDATION, subject to such guidelines relating to the $FOUNDATION's
     trademarks as may from time to time be in force; and
 
-(e) such other benefits, rights and privileges applicable to such Member’s Membership class as the Board
+(e) such other benefits, rights and privileges applicable to such Member's Membership class as the Board
     may designate from time to time by vote pursuant to Section 2.9 and Article XIV below or under the
     General Corporation Law of Delaware.
 
@@ -164,24 +167,24 @@ Each Associate Member, while in good standing, shall be entitled to:
 
 ### Section 2.7 - Participation
 
-Participation in Projects sponsored by the JS Foundation shall not be limited to Members, but may be
+Participation in Projects sponsored by the $FOUNDATION shall not be limited to Members, but may be
 subject to such operating procedures and terms of participation and other rules as may from time to time be
 approved by the Board.
 
 ### Section 2.8 - Subsidiaries, Etc.
 
-(a)     Only the legal entity which has been accepted as a Member of the JS Foundation and its
+(a)     Only the legal entity which has been accepted as a Member of the $FOUNDATION and its
 Subsidiaries (as defined below) shall be entitled to enjoy the rights and privileges of such Membership;
 provided, however, that such Member and its Subsidiaries shall be treated together as a single Member.
-For purposes of this Section, the term “Subsidiaries” shall mean all Related Companies (as defined below)
+For purposes of this Section, the term "Subsidiaries" shall mean all Related Companies (as defined below)
 that a Member controls or is affiliated with (as defined in Section 2.8(b) below).
 
 (b)      Only one Member which is part of a group of Related Companies shall be entitled to have a
-representative on the Board at one time. For purposes of these By-laws, the term “Related Company” shall
+representative on the Board at one time. For purposes of these By-laws, the term "Related Company" shall
 mean any entity which controls or is controlled by a Member or which, together with a Member, is under
 the common control of a third party, in each case where such control results from ownership, either directly
 or indirectly, of more than fifty percent of the voting securities or membership interests of the entity in
-question; and “Related Companies” are entities that are each a Related Company of a Member.
+question; and "Related Companies" are entities that are each a Related Company of a Member.
 
 (c)     No Related Company of a Platinum, Gold, or Silver Member may apply for Membership as a
 Platinum, Gold, or Silver Member for so long as the existing Platinum, Gold, or Silver Member retains its
@@ -206,11 +209,10 @@ one or more additional classes of Membership may be created, and the conditions,
 powers and privileges of each such class may be prescribed, by amendment to these By-laws in accordance
 with Article XIV.
 
-### Section 2.10 - Termination or Suspension of Member by JS Foundation
+### Section 2.10 - Termination or Suspension of Member by $FOUNDATION
 
 Any Member may be suspended from Membership or have its Membership terminated by the Board for
-failure to satisfy its Membership Obligations or for engaging in any conduct, either within or without the JS
-Foundation, that is contrary to the Purposes of the JS Foundation. Financial Obligations already paid shall
+failure to satisfy its Membership Obligations or for engaging in any conduct, either within or without the $FOUNDATION, that is contrary to the Purposes of the $FOUNDATION. Financial Obligations already paid shall
 not be refundable upon any such termination or suspension, and all Financial Obligations of such Member
 which may be accrued and unpaid as of the date of such termination shall remain due and
 payable. Terminations or suspensions of Membership for failure to satisfy Financial Obligations within 60
@@ -222,8 +224,7 @@ termination or suspension of Membership for any other purpose shall be effective
     reasons therefor;
 
 (b) Such notice is delivered personally or by certified mail, return receipt requested, or by a national or
-    international overnight courier service, sent to the last address of the Member shown on the JS
-    Foundation’s records;
+    international overnight courier service, sent to the last address of the Member shown on the $FOUNDATION's records;
 
 (c) Such notice is given at least thirty days prior to the effective date of the proposed termination or
     suspension of Membership;
@@ -237,8 +238,8 @@ termination or suspension of Membership for any other purpose shall be effective
 (e) Such termination or suspension of Membership is approved by Super Majority Vote of the Board.
 
 Notwithstanding the foregoing, in the event that the Board believes in good faith that a Member is engaging
-in willful misconduct or otherwise acting to the material detriment of the best interests of the JS Foundation
-and its Members, the Board, acting by Super Majority Vote, may suspend such Member’s Membership
+in willful misconduct or otherwise acting to the material detriment of the best interests of the $FOUNDATION
+and its Members, the Board, acting by Super Majority Vote, may suspend such Member's Membership
 immediately, provided that such Member is otherwise afforded the protections provided for in subsections
 (a), (b) and (d) of this Section 2.10.
 
@@ -248,39 +249,39 @@ A Member may resign as a Member at any time. Any Financial Obligations already p
 shall not be refundable upon any resignation, including any termination of Membership pursuant to Section
 2.10 above, and all such Financial Obligations of such Member which may be accrued and unpaid as of
 such date shall remain due and payable. If a Platinum Member gives written notice of non-renewal or
-resigns as a Member, or is terminated, the JS Foundation shall promptly give notice of such event to all
+resigns as a Member, or is terminated, the $FOUNDATION shall promptly give notice of such event to all
 Members.
 
 ### Section 2.12 - Levy of Dues, Assessments or Fees
 
-The JS Foundation may levy dues, assessments or fees upon its Members in such amounts as may be
-approved from time to time by the Board, but shall provide at least thirty (30) days’ notice of such levy.
+The $FOUNDATION may levy dues, assessments or fees upon its Members in such amounts as may be
+approved from time to time by the Board, but shall provide at least thirty (30) days' notice of such levy.
 For the avoidance of doubt, no such levy shall be effective until at least thirty (30) days have passed since
 the provision of notice. A Member upon learning of any increase in dues, or of any levy of any
 assessments or fees, may avoid liability therefor by resigning from Membership prior to the date such dues,
 
-assessments or fees are due and payable, except where the Member is, by contract with the JS Foundation
+assessments or fees are due and payable, except where the Member is, by contract with the $FOUNDATION
 or otherwise, independently and explicitly liable for such dues, assessments or fees. No provision of the
-Certificate of Incorporation or By-Laws of the JS Foundation authorizing such dues, assessments or fees
+Certificate of Incorporation or By-Laws of the $FOUNDATION authorizing such dues, assessments or fees
 shall, of itself, create such liability. In no event shall the failure of a Member to pay any dues or
-assessments give rise to any claim in favor of the JS Foundation for indirect or consequential damages.
+assessments give rise to any claim in favor of the $FOUNDATION for indirect or consequential damages.
 
 ### Section 2.13 - Use of Names
 
-Unless otherwise provided herein, neither the JS Foundation nor any Member shall use the name, logo,
+Unless otherwise provided herein, neither the $FOUNDATION nor any Member shall use the name, logo,
 trademark, service mark or other distinctive mark of another Member in any form of publicity without the
-written permission of the other Member, provided that the JS Foundation and any Member may each
-disclose and publicize such Member’s Membership in the JS Foundation.
+written permission of the other Member, provided that the $FOUNDATION and any Member may each
+disclose and publicize such Member's Membership in the $FOUNDATION.
 
 ### Section 2.14 - Rights in Intellectual Property
 
-The Board shall give all Members at least thirty (30) days’ notice prior to the adoption of, or any material
+The Board shall give all Members at least thirty (30) days' notice prior to the adoption of, or any material
 change to, any intellectual property rights policy or any other material policy or procedure governing
 intellectual property, such that any Member may resign its membership prior to the effective date thereof in
 accordance with Section 2.11 above. For the avoidance of doubt, no such adoption or material change shall
 be effective until at least thirty (30) days have passed since the provision of notice. A material change shall
 be deemed to include, without limitation, the imposition of a patent license obligation on Members, and a
-change in the license applicable to Members’ contributions.
+change in the license applicable to Members' contributions.
 
 
 
@@ -302,18 +303,17 @@ action without a meeting by less than unanimous written consent shall be given t
 to vote thereon who have not consented in writing. An electronic transmission consenting to an action to
 be taken and transmitted by a Member or by a person or persons authorized to act for a Member or
 proxyholder, shall be deemed to be written, signed and dated for the purposes of this Section, provided that
-any such electronic transmission sets forth or is delivered with information from which the JS Foundation
+any such electronic transmission sets forth or is delivered with information from which the $FOUNDATION
 can determine (a) that the electronic transmission was transmitted by the Member or by a person or persons
 authorized to act for the Member and (b) the date on which such Member or authorized person or persons
 transmitted such electronic transmission. The date on which such electronic transmission is transmitted
 shall be deemed to be the date on which such consent was signed. Consents given by electronic
-transmission (i) may be delivered by electronic transmission to the principal place of business of the JS
-Foundation or to an Officer or agent of the JS Foundation having custody of the book in which actions of
+transmission (i) may be delivered by electronic transmission to the principal place of business of the $FOUNDATION or to an Officer or agent of the $FOUNDATION having custody of the book in which actions of
 Members without a meeting are recorded, need not be reproduced in paper form, and may be maintained in
 electronic form as long as they are capable of being readily reproduced in paper form, and (ii) may be
-otherwise delivered to the principal place of business of the JS Foundation or to an Officer or agent of the
+otherwise delivered to the principal place of business of the $FOUNDATION or to an Officer or agent of the
 
-JS Foundation having custody of the book in which actions of Members without a meeting are recorded if,
+$FOUNDATION having custody of the book in which actions of Members without a meeting are recorded if,
 to the extent and in the manner provided by resolution of the Board.
 
 Any copy, facsimile or other reliable reproduction of a consent in writing may be substituted or used in lieu
@@ -323,10 +323,10 @@ such copy, facsimile or other reproduction shall be a complete reproduction of t
 ### Section 3.2 - Nomination and Election Procedures
 
 Subject to the provisions of Section 4.3, the Board shall establish reasonable nomination and election
-procedures given the nature, size, and operations of the JS Foundation, including a reasonable means for
+procedures given the nature, size, and operations of the $FOUNDATION, including a reasonable means for
 Members of appropriate classes to nominate a person for election as a Director, a reasonable opportunity
-for a nominee to communicate to the Members the nominee’s qualifications and the reasons for the
-nominee’s candidacy (if requested by such nominee), a reasonable opportunity for all nominees to solicit
+for a nominee to communicate to the Members the nominee's qualifications and the reasons for the
+nominee's candidacy (if requested by such nominee), a reasonable opportunity for all nominees to solicit
 votes (if requested by any such nominee), and a reasonable opportunity for all Members entitled to vote
 thereon to choose among the nominees.
 
@@ -337,10 +337,9 @@ thereon to choose among the nominees.
 
 ### Section 4.1 - Powers; Voting
 
-The business and affairs of the JS Foundation shall be managed by its Board, which shall be, and shall
-possess all of the powers of, the “Governing Body” of the JS Foundation as a not-for-profit membership
-corporation under Delaware General Corporation Law. The Board may exercise all powers of the JS
-Foundation and do all such lawful acts and things as are not by statute or by the Certificate of Incorporation
+The business and affairs of the $FOUNDATION shall be managed by its Board, which shall be, and shall
+possess all of the powers of, the "Governing Body" of the $FOUNDATION as a not-for-profit membership
+corporation under Delaware General Corporation Law. The Board may exercise all powers of the $FOUNDATION and do all such lawful acts and things as are not by statute or by the Certificate of Incorporation
 or by these By-laws directed or required to be exercised or done by the Members.
 
 ### Section 4.2 - Number of Directors
@@ -358,12 +357,12 @@ Platinum Members.
 ### Section 4.3 - Nomination, Election and Term of Office of Directors
 
 (a)       Each Platinum Member (while remaining in good standing) shall be entitled individually to
-appoint one Director (each a “Platinum Director”). Each Platinum Director shall serve until the next annual
+appoint one Director (each a "Platinum Director"). Each Platinum Director shall serve until the next annual
 action of Members without a meeting and until his or her successor shall be duly appointed or until his or
 her earlier resignation or removal.
 
 (b)      Each Gold Member (while remaining in good standing) shall have the right to vote, together with
-the other Gold Members as a class, and to elect a number of Directors (each, a “Gold Director”) equal to
+the other Gold Members as a class, and to elect a number of Directors (each, a "Gold Director") equal to
 the greater of (i) one (1) and (ii) the number of Gold Members then in good standing divided by three (3)
 (rounded down to the nearest whole number) up to a maximum of three (3); provided that the number of
 
@@ -379,7 +378,7 @@ Directors previously elected may serve until the next annual election of Directo
 required decrease in the number of Gold Directors shall take effect.
 
 (c)      Each Silver Member (while remaining in good standing) shall have the right to vote, together with
-the other Silver Members as a class, and to elect a number of Directors (each, a “Silver Director”) equal to
+the other Silver Members as a class, and to elect a number of Directors (each, a "Silver Director") equal to
 the greater of (i) one (1) and (ii) the number of Silver Members then in good standing divided by ten (10)
 (rounded down to the nearest whole number) up to a maximum of three (3); provided that the number of
 Silver-elected Board seats do not exceed the number of Platinum-elected Board seats minus one nor the
@@ -400,7 +399,7 @@ but shall not automatically, be re-nominated, re-appointed and/or re-elected for
 
 (e)       Each Director (other than the TAC Director) shall be an employee of the Member which
 nominated or appointed him or her. Each Director (other than the TAC Director) shall hold office until the
-earliest to occur of the expiration of the term for which such Director was elected and such Director’s
+earliest to occur of the expiration of the term for which such Director was elected and such Director's
 successor is elected and qualified, or until his or her earlier death, resignation, removal or termination of
 employment for any reason with the nominating or appointing Member, and in the case of a Platinum or
 Silver Director, until the earlier of (i) expiration or termination of Membership of the Member that
@@ -444,20 +443,20 @@ amended at any time by a Super Majority Vote (as defined in Section 4.10(b)) of 
 
 ### Section 4.5 - Resignation and Removal
 
-Any Director may resign at any time upon notice to the JS Foundation in writing or by electronic
-transmission at the principal place of business of the JS Foundation or to the President or Secretary. Such
+Any Director may resign at any time upon notice to the $FOUNDATION in writing or by electronic
+transmission at the principal place of business of the $FOUNDATION or to the President or Secretary. Such
 resignation shall be effective upon receipt unless it is specified to be effective at some other time or upon
 the happening of some other event. Any Director who was appointed by a Member under Section 4.3(a)
 may be removed by that Member at any time, and for any reason, or for no reason. Any or all of the
 Directors who were elected by a class of Members voting as a class or by the Board may be removed by a
 majority vote of such class of Members or the Board, respectively. Unless otherwise specified by law or
 the Certificate of Incorporation, any Director may be removed by a majority of the other Directors then in
-office for engaging in any conduct, either within or without the JS Foundation, that is contrary to the
-interests of the JS Foundation or to the advancement of the JS Foundation’s business or industry goals;
+office for engaging in any conduct, either within or without the $FOUNDATION, that is contrary to the
+interests of the $FOUNDATION or to the advancement of the $FOUNDATION's business or industry goals;
 provided, however, that the Member or class of Members that appointed and elected or nominated and
 elected (as the case may be) such removed Director shall be entitled to appoint and elect or nominate and
 elect (as the case may be) a replacement for such removed Director to serve for the balance of such
-removed Director’s term. The TAC Director shall automatically cease to be a Director at such time as he or
+removed Director's term. The TAC Director shall automatically cease to be a Director at such time as he or
 she ceases for any reason to be the Chair of the TAC.
 
 ### Section 4.6 - Vacancies
@@ -487,8 +486,8 @@ made shall be given prompt notice of such determination.
 
 Special meetings of the Board may be called by the President, Secretary, or on the written request of two or
 more Directors, or by one Director in the event that there is only one Director in office. Two business
-days’ notice to each Director, either personally or by telecopy, commercial delivery service, electronic
-transmission, or similar means sent to his or her business or home address, or three business days’ notice by
+days' notice to each Director, either personally or by telecopy, commercial delivery service, electronic
+transmission, or similar means sent to his or her business or home address, or three business days' notice by
 written notice deposited in the mail, shall be given to each Director by the Secretary or by the Officer or
 one of the Directors calling the meeting. A notice or waiver of notice or any waiver by electronic
 transmission of a meeting of the Board need not specify the purposes of the meeting.
@@ -500,7 +499,7 @@ the transaction of business and the act of a majority of such Directors present 
 is a quorum shall be the act of the Board, except as may be otherwise specifically provided by law, the
 Certificate of Incorporation or these By-laws.
 
-(b)     In order to pass a “Super Majority Vote”, a resolution must be taken at a meeting of the Board at
+(b)     In order to pass a "Super Majority Vote", a resolution must be taken at a meeting of the Board at
 which a quorum is present and in support of which two-thirds of all Directors have voted affirmatively, or
 by an equivalent number of Directors acting by written consent in the manner described in Section 4.11
 below. A Super Majority Vote of the Board shall be required with respect to the following matters:
@@ -512,10 +511,9 @@ below. A Super Majority Vote of the Board shall be required with respect to the 
 (iii)    Adopting or recommending to the Members an agreement of merger or consolidation;
 
 (iv)     Approving or recommending to the Members the sale, lease or exchange of all or substantially all
-         of the JS Foundation’s property and assets;
+         of the $FOUNDATION's property and assets;
 
-(v)      Approving or recommending to the Members the dissolution, liquidation or winding up of the JS
-         Foundation or a revocation of any such dissolution, liquidation or winding up;
+(v)      Approving or recommending to the Members the dissolution, liquidation or winding up of the $FOUNDATION or a revocation of any such dissolution, liquidation or winding up;
 
 (vi)     Establishing any new committee of the Board of Directors or committee of the Members;
 
@@ -530,7 +528,7 @@ below. A Super Majority Vote of the Board shall be required with respect to the 
 (x)      Amending or modifying the eligibility requirements for membership on the Board or the classes of
          Members eligible to appoint and/or elect Directors;
 
-(xi)     Termination or suspension of a Member’s membership, pursuant to Section 2.10 above; and
+(xi)     Termination or suspension of a Member's membership, pursuant to Section 2.10 above; and
 
 (xii)    Elimination of the Platinum Member right set forth in Section 2.3 above.
 
@@ -548,7 +546,7 @@ by one for each such Director so disqualified.
 (a) Unless otherwise restricted by the Certificate of Incorporation or these By-Laws, any action required or
 permitted to be taken by the Board may be taken without a meeting and without prior notice if a majority of
 Directors then in office (or such greater number of Directors as may be required by law or the By-laws of
-the JS Foundation for the taking of any such action at a meeting) consent thereto in writing or by electronic
+the $FOUNDATION for the taking of any such action at a meeting) consent thereto in writing or by electronic
 transmission, and the writing or writings, or electronic transmission or transmissions, are filed with the
 minutes of proceedings of the Board, provided that:
 
@@ -560,7 +558,7 @@ transmission) is given to those Directors who have not consented in writing or b
 and
 
 (iii)    two or more such Directors have not objected to the taking of any such action by written notice
-delivered to the JS Foundation within ten business days following the date that written notice of the
+delivered to the $FOUNDATION within ten business days following the date that written notice of the
 Directors action is mailed or otherwise delivered to such Directors.
 
 Such filing shall be in paper form if the minutes are maintained in paper form and shall be in electronic
@@ -586,15 +584,15 @@ participation in a meeting shall constitute presence in person at the meeting.
 
 Every Director shall have the absolute right at any time to inspect, copy and make extracts of, in person or
 by agent or attorney, all books, records and documents of every kind, and to inspect the physical properties
-of the JS Foundation.
+of the $FOUNDATION.
 
 ### Section 4.14 - Fees and Compensation
 
 Directors shall not receive any stated salary or reimbursements for their services as Directors; provided
-that, by resolution of a majority of the Board, the JS Foundation may reimburse Directors for expenses
-incurred while acting on behalf of the JS Foundation and/or expenses incurred in attending meetings of the
+that, by resolution of a majority of the Board, the $FOUNDATION may reimburse Directors for expenses
+incurred while acting on behalf of the $FOUNDATION and/or expenses incurred in attending meetings of the
 Board, in such amounts as the Board may determine to be appropriate. Nothing herein contained shall be
-construed to preclude any Director from serving the JS Foundation in any other capacity as an Officer,
+construed to preclude any Director from serving the $FOUNDATION in any other capacity as an Officer,
 agent, employee or otherwise, and receiving compensation therefor. The Directors may also approve
 reimbursement of expenses for members of Board Committees in connection with their service on such
 Board Committees.
@@ -633,10 +631,9 @@ the Executive Committee shall have no authority with respect to:
 
 (h) Adopting an agreement of merger or consolidation;
 
-(i) Recommending to the Members the sale, lease or exchange of all or substantially all of the JS
-    Foundation’s property and assets; and
+(i) Recommending to the Members the sale, lease or exchange of all or substantially all of the $FOUNDATION's property and assets; and
 
-(j) Recommending to the Members a dissolution of the JS Foundation or a revocation of a dissolution.
+(j) Recommending to the Members a dissolution of the $FOUNDATION or a revocation of a dissolution.
 
 ### Section 5.2 - Other Committees of the Board
 
@@ -671,17 +668,17 @@ her election.
 rights in all Member Committees shall be as specified in Article II. Unless otherwise specified in these
 Bylaws or by the Board, each Member Committee may have such sub-committees, working groups and
 special interest groups as from time to time may be approved by such Member Committee, within the
-strategic direction established by the Board (each a “Working Group”).
+strategic direction established by the Board (each a "Working Group").
 
 ### Section 5.6 - Technical Advisory Committee
 
-A Technical Advisory Committee (the “TAC”) of the JS Foundation shall be established pursuant to a
-charter to be approved by the Board (the “TAC Charter”). At or following the establishment of the TAC,
+A Technical Advisory Committee (the "TAC") of the $FOUNDATION shall be established pursuant to a
+charter to be approved by the Board (the "TAC Charter"). At or following the establishment of the TAC,
 the Board shall appoint a TAC Chair to serve for an initial 1-year term. This appointed TAC Chair shall not
 be employed by any Member organization at the time of appointment. At the conclusion of this initial one
 year term and thereafter, the TAC Chair shall be elected by the TAC in accordance with the TAC Charter
 and shall serve at the pleasure of the TAC and the Board. The TAC Chair shall automatically be a member
-of the Board (“TAC Director”).
+of the Board ("TAC Director").
 
 (a)      Creation and operation of Projects shall be pursuant to the TAC Charter. Individual Projects may
 be terminated as follows:
@@ -690,14 +687,14 @@ be terminated as follows:
             Action, may terminate a Project. Termination will be effective upon sixty (60) days notice, by
             any means suitable under these Bylaws, to the Project lead or technical leadership.
 
-         2. By Project Team. A Project’s technical leadership team, as set by the TAC Charter (the “Project
-            Team”) may vote to terminate their Project in accordance with the provisions of the TAC
+         2. By Project Team. A Project's technical leadership team, as set by the TAC Charter (the "Project
+            Team") may vote to terminate their Project in accordance with the provisions of the TAC
             Charter. Termination will be effective upon sixty (60) days notice to the Board.
 
 (b)      Upon termination of a Project, whether by the Board or by the Project Team, the Project Team
 may request within sixty (60) days of the effective date of termination that all intellectual property of any
-kind owned by the JS Foundation, including copyrights, trademarks, patents, and trade secrets, created by
-and related to the Project (“Project IP”), be transferred and assigned to another entity for the purpose of
+kind owned by the $FOUNDATION, including copyrights, trademarks, patents, and trade secrets, created by
+and related to the Project ("Project IP"), be transferred and assigned to another entity for the purpose of
 continuation of the Project; provided, however, that:
 
          1. The request is timely made;
@@ -706,16 +703,16 @@ continuation of the Project; provided, however, that:
             Revenue Code at the time the request is made; and
 
          3. To the extent any Project IP has been incorporated into other Projects, the Project Team grants a
-            license, as necessary, to the JS Foundation to continue that use.
+            license, as necessary, to the $FOUNDATION to continue that use.
 
 
 ## ARTICLE VI - OFFICERS
 
 ### Section 6.1 - Officers
 
-The Officers of the JS Foundation shall be a President, a Treasurer and a Secretary, each of whom shall also
-be a Director, and the JS Foundation may also retain an Executive Director, who is not required to be a
-Director. The JS Foundation may also have, at the discretion of the Board, an Executive Director, one or
+The Officers of the $FOUNDATION shall be a President, a Treasurer and a Secretary, each of whom shall also
+be a Director, and the $FOUNDATION may also retain an Executive Director, who is not required to be a
+Director. The $FOUNDATION may also have, at the discretion of the Board, an Executive Director, one or
 more Vice-Presidents, one or more Assistant Secretaries and/or Assistant Treasurers, and such other
 Officers with such titles, terms of office and duties as may be elected in accordance with the provisions of
 ### Section 6.3. - The President shall be nominated by the Platinum Members, and shall preside over meetings
@@ -736,11 +733,11 @@ be replaced, at any other meeting of, or by written consent of, the Board.
 
 ### Section 6.4 - Tenure
 
-Each Officer of the JS Foundation shall hold office until his or her successor is chosen and qualifies, unless
+Each Officer of the $FOUNDATION shall hold office until his or her successor is chosen and qualifies, unless
 a different term is specified in the vote choosing or electing him, or until his or her earlier death,
 resignation or removal. Any Officer elected by the Board may be removed at any time by the Board or a
 Board Committee duly authorized to do so. Any Officer may resign by delivering his or her written
-resignation to the JS Foundation at its principal place of business or to the Secretary. Such resignation shall
+resignation to the $FOUNDATION at its principal place of business or to the Secretary. Such resignation shall
 
 be effective upon receipt unless it is specified to be effective at some other time or upon the happening of
 some other event.
@@ -750,11 +747,11 @@ some other event.
 (a)      The President shall have all of the powers normally associated with the role of chief executive
 officer and preside at all meetings of the Board and the Members, in addition to any other power granted
 the President under these By-laws or by applicable law. The President shall oversee the management of the
-business of the JS Foundation and see that all orders and resolutions of the Board are carried into effect.
+business of the $FOUNDATION and see that all orders and resolutions of the Board are carried into effect.
 Without limiting the foregoing, the President shall: (i) Execute bonds, mortgages, and other contracts
-requiring a seal, under the seal of the JS Foundation, except where required or permitted by law to be
+requiring a seal, under the seal of the $FOUNDATION, except where required or permitted by law to be
 otherwise signed and executed and except where the signing and execution thereof shall be expressly
-delegated by the Board to some other Officer or agent of the JS Foundation; and (ii) Oversee the Executive
+delegated by the Board to some other Officer or agent of the $FOUNDATION; and (ii) Oversee the Executive
 Director (if any).
 
 (b)      The Executive Director (if any) shall preside over the day-to-day affairs of the Foundation under
@@ -774,11 +771,11 @@ Board or the President may from time to time prescribe.
 
 The Secretary shall have such powers and perform such duties as are incident to the office of Secretary
 under the General Corporation Law of Delaware, including without limitation a recording all the
-proceedings of the meetings of the JS Foundation and of the Board. The Secretary, and each Assistant
+proceedings of the meetings of the $FOUNDATION and of the Board. The Secretary, and each Assistant
 Secretary, shall have authority to affix the Corporate seal to any instrument requiring it and when so
 affixed, it may be attested by signature of the Secretary or by the signature of such Assistant
-Secretary. The Board may give general authority to any other Officer to affix the seal of the JS Foundation
-and to attest the affixing by such Officer’s signature.
+Secretary. The Board may give general authority to any other Officer to affix the seal of the $FOUNDATION
+and to attest the affixing by such Officer's signature.
 
 ### Section 6.8 - Assistant Secretaries
 
@@ -791,21 +788,21 @@ temporary or acting Secretary to keep a record of the meeting.
 
 The Treasurer shall perform such duties and shall have such powers as may be assigned to him or her by
 the Board or the President. Unless otherwise determined by the Board, the Treasurer shall chair the Audit
-and Finance Committees of the JS Foundation. In addition, the Treasurer shall perform such duties and
+and Finance Committees of the $FOUNDATION. In addition, the Treasurer shall perform such duties and
 have such powers as are incident to the office of Treasurer. The Treasurer shall have the custody of the
 corporate funds and securities and shall keep full and accurate accounts of receipts and disbursements in
-books belonging to the JS Foundation and shall deposit all moneys and other valuable effects in the name
-and to the credit of the JS Foundation in such depositories as may be designated by the Board, taking
+books belonging to the $FOUNDATION and shall deposit all moneys and other valuable effects in the name
+and to the credit of the $FOUNDATION in such depositories as may be designated by the Board, taking
 proper vouchers for such disbursements, and shall render to the President and the Board, when the
 
 President or Board so requires, an account of all his or her transactions as Treasurer and of the financial
-condition of the JS Foundation.
+condition of the $FOUNDATION.
 
 ### Section 6.10 - Compensation
 
 The compensation, if any, of the Officers shall be fixed from time to time by the Board, and no Officer
 shall be prevented from receiving such compensation by reason of the fact that the Officer is also a Director
-of the JS Foundation.
+of the $FOUNDATION.
 
 
 
@@ -816,41 +813,39 @@ of the JS Foundation.
 
 (a)       Whenever, under the provisions of law, or of the Certificate of Incorporation or these By-laws,
 written notice is required to be given to any Director or Member, such notice may be given by mail,
-addressed to such Director or Member, at his, her or its address as it appears on the records of the JS
-Foundation, with postage thereon prepaid. Unless written notice by mail is required by law, the Certificate
+addressed to such Director or Member, at his, her or its address as it appears on the records of the $FOUNDATION, with postage thereon prepaid. Unless written notice by mail is required by law, the Certificate
 of Incorporation or another provision of these By-laws, and subject to the provisions below relating to
 notice by electronic transmission to Members, written notice may also be given by electronic mail,
 telecopy, commercial delivery service, or similar means, addressed to such Director or Member at his, her
-or its address as it appears on the records of the JS Foundation. Without limiting the manner by which
-notice otherwise may be given effectively to Members, any notice to Members given by the JS Foundation
+or its address as it appears on the records of the $FOUNDATION. Without limiting the manner by which
+notice otherwise may be given effectively to Members, any notice to Members given by the $FOUNDATION
 under any provision of law, the Certificate of Incorporation, or the By-laws, unless written notice by mail is
 required by law, the Certificate of Incorporation or another provision of these By-laws, shall be effective if
 given by a form of electronic transmission consented to by the Member to whom the notice is given.
 
 (b)       Notice given pursuant to this Section shall be deemed given: (i) if by facsimile telecommunication
 (A) to a Member, when directed to a number at which the Member has consented to receive notice and (B)
-to a Director, when directed to the number for such Director as it appears on the records of the JS
-Foundation; (ii) if by electronic mail to (A) a Member, when directed to an electronic mail address at which
+to a Director, when directed to the number for such Director as it appears on the records of the $FOUNDATION; (ii) if by electronic mail to (A) a Member, when directed to an electronic mail address at which
 the Member has consented to receive notice and (B) to a Director, when directed to the electronic mail
-address for such Director as it appears on the records of the JS Foundation; (iii) if by a posting on an
+address for such Director as it appears on the records of the $FOUNDATION; (iii) if by a posting on an
 electronic network together with separate notice to the Member or Director of such specific posting, upon
 the later of (A) such posting and (B) the giving of such separate notice; (iv) if by any other form of
 electronic transmission, when directed to the Member or Director; (v) if by in-hand delivery or oral notice,
 at the time it is actually given; (vi) if by mail, at the time when the same shall be deposited in the United
 States mail; and (vii) if by commercial delivery carrier or similar means, at the time when the same shall be
-deposited with the carrier, in each case the transmission charge to be paid by the JS Foundation or the
+deposited with the carrier, in each case the transmission charge to be paid by the $FOUNDATION or the
 person sending such notice and not by the addressee. An affidavit of the Secretary or an Assistant
-Secretary or of the transfer agent or other agent of the JS Foundation that the notice has been given by a
+Secretary or of the transfer agent or other agent of the $FOUNDATION that the notice has been given by a
 form of electronic transmission shall, in the absence of fraud, be prima facie evidence of the facts stated
 therein.
 
-(c)       For purposes of these By-laws, “electronic transmission” means any form of communication, not
+(c)       For purposes of these By-laws, "electronic transmission" means any form of communication, not
 directly involving the physical transmission of paper, that creates a record that may be retained, retrieved,
 and reviewed by a recipient thereof, and that may be directly reproduced in paper form by such a recipient
 through an automated process.
 
-(d)      Without limiting the foregoing, the JS Foundation adopts electronic mail as its principal source of
-communication with its Members. Each Member acknowledges and agrees that the JS Foundation shall
+(d)      Without limiting the foregoing, the $FOUNDATION adopts electronic mail as its principal source of
+communication with its Members. Each Member acknowledges and agrees that the $FOUNDATION shall
 not be under any obligation (except as required by law or these By-laws) to send any notice to any Member
 by any means other than electronic mail, and it is therefore the responsibility of each Member to avail itself
 of and make such arrangements as may be necessary to receive notice in such fashion.
@@ -867,36 +862,35 @@ person entitled to notice, shall be deemed equivalent thereto.
 
 ## ARTICLE VIII - INDEMNIFICATION
 
-### Section 8.1 - Actions other than by or in the Right of the JS Foundation
+### Section 8.1 - Actions other than by or in the Right of the $FOUNDATION
 
 Subject to confirmation of the appropriateness of such action by the Board as provided in Section 8.4
-below, the JS Foundation shall indemnify any person who was or is a party or is threatened to be made a
+below, the $FOUNDATION shall indemnify any person who was or is a party or is threatened to be made a
 party to any threatened, pending or completed action, suit or proceeding, whether civil, criminal,
-administrative or investigative (other than an action by or in the right of the JS Foundation) by reason of the
-fact that he or she is or was a Director, Officer, employee or agent of the JS Foundation, or is or was
-serving at the request of the JS Foundation as a director, officer, employee or agent of another corporation,
-partnership, joint venture, trust or other enterprise, against expenses (including attorneys’ fees), judgments,
+administrative or investigative (other than an action by or in the right of the $FOUNDATION) by reason of the
+fact that he or she is or was a Director, Officer, employee or agent of the $FOUNDATION, or is or was
+serving at the request of the $FOUNDATION as a director, officer, employee or agent of another corporation,
+partnership, joint venture, trust or other enterprise, against expenses (including attorneys' fees), judgments,
 fines and amounts paid in settlement actually and reasonably incurred by him or her in connection with
 such action, suit or proceeding if he or she acted in good faith and in a manner he or she reasonably
-believed to be in or not opposed to the best interests of the JS Foundation, and, with respect to any criminal
+believed to be in or not opposed to the best interests of the $FOUNDATION, and, with respect to any criminal
 action or proceedings, had no reasonable cause to believe this conduct was unlawful. The termination of
 any action, suit or proceeding by judgment, order, settlement, conviction, or upon a plea of nolo contendere
 or its equivalent, shall not, of itself, create a presumption that the person did not act in good faith and in a
-manner which he or she reasonably believed to be in or not opposed to the best interests of the JS
-Foundation, and, with respect to any criminal action or proceeding, had reasonable cause to believe that his
+manner which he or she reasonably believed to be in or not opposed to the best interests of the $FOUNDATION, and, with respect to any criminal action or proceeding, had reasonable cause to believe that his
 or her conduct was unlawful.
 
-### Section 8.2 - Actions by or in the Right of the JS Foundation
+### Section 8.2 - Actions by or in the Right of the $FOUNDATION
 
 Subject to confirmation of the appropriateness of such action by the Board as provided in Section 8.4
-below, the JS Foundation shall indemnify any person who was or is a party or is threatened to be made a
-party to any threatened, pending or completed action or suit by or in the right of the JS Foundation to
+below, the $FOUNDATION shall indemnify any person who was or is a party or is threatened to be made a
+party to any threatened, pending or completed action or suit by or in the right of the $FOUNDATION to
 procure a judgment in its favor by reason of the fact that he or she is or was a Director, Officer, employee
-or agent of the JS Foundation, or is or was serving at the request of the JS Foundation as a director, officer,
+or agent of the $FOUNDATION, or is or was serving at the request of the $FOUNDATION as a director, officer,
 employee or agent of another corporation, partnership, joint venture, trust or other enterprise against
-expenses (including attorneys’ fees) actually and reasonably incurred by him or her in connection with the
+expenses (including attorneys' fees) actually and reasonably incurred by him or her in connection with the
 defense or settlement of such action or suit if he or she acted in good faith and in a manner he or she
-reasonably believed to be in or not opposed to the best interests of the JS Foundation; provided, however,
+reasonably believed to be in or not opposed to the best interests of the $FOUNDATION; provided, however,
 that no indemnification shall be made in respect of any claim, issue or matter as to which such person shall
 have been adjudged to be liable unless, and only to the extent that, the Court of Chancery of the State of
 Delaware or the court in which such action or suit was brought shall determine upon application that,
@@ -908,24 +902,23 @@ such other court shall deem proper.
 
 To the extent that any person described in Section 8.1 or 8.2 of this Article VIII has been successful on the
 merits or otherwise in defense of any action, suit or proceeding referred to in said Sections, or in defense of
-any claim, issue or matter therein, he or she shall be indemnified against expenses (including attorneys’
+any claim, issue or matter therein, he or she shall be indemnified against expenses (including attorneys'
 fees) actually and reasonably incurred by him or her in connection therewith.
 
 ### Section 8.4 - Specific Authorization
 
 Any indemnification under Section 8.1 or 8.2 of this Article VIII (unless ordered by a court) shall be made
-by the JS Foundation only as authorized in the specific case upon a determination that indemnification of
+by the $FOUNDATION only as authorized in the specific case upon a determination that indemnification of
 any person described in said Sections is proper in the circumstances because he or she has met the
 applicable standard of conduct set forth in said Sections. Such determination shall be made (a) by a
 majority vote of a such Directors who were not parties to such action, suit or proceeding, even though less
-than a quorum or (b) by the Members of the JS Foundation.
+than a quorum or (b) by the Members of the $FOUNDATION.
 
 ### Section 8.5 - Advance Payment
 
-Expenses incurred in defending a civil or criminal action, suit or proceeding shall be paid by the JS
-Foundation in advance of the final disposition of such action, suit or proceeding upon receipt of an
+Expenses incurred in defending a civil or criminal action, suit or proceeding shall be paid by the $FOUNDATION in advance of the final disposition of such action, suit or proceeding upon receipt of an
 undertaking by or on behalf of any person described in said Section to repay such amount if it shall
-ultimately be determined that he or she is not entitled to indemnification by the JS Foundation as authorized
+ultimately be determined that he or she is not entitled to indemnification by the $FOUNDATION as authorized
 in this Article VIII.
 
 ### Section 8.6 - Non-Exclusivity
@@ -940,23 +933,22 @@ another capacity while holding such office.
 
 The Delaware Court of Chancery is vested with exclusive jurisdiction to hear and determine all actions for
 advancement of expenses or indemnification. The Delaware Court of Chancery may summarily determine
-the JS Foundation’s obligation to advance expenses (including attorney’s fees).
+the $FOUNDATION's obligation to advance expenses (including attorney's fees).
 
 ### Section 8.8 - Insurance
 
-The Board may authorize the JS Foundation to purchase and maintain insurance on behalf of any person
-who is or was a Director, Officer, employee or agent of the JS Foundation, or is or was serving at the
-request of the JS Foundation as a director, officer, employee or agent of another corporation, partnership,
+The Board may authorize the $FOUNDATION to purchase and maintain insurance on behalf of any person
+who is or was a Director, Officer, employee or agent of the $FOUNDATION, or is or was serving at the
+request of the $FOUNDATION as a director, officer, employee or agent of another corporation, partnership,
 joint venture, trust or other enterprise against any liability asserted against him or her and incurred by him
-or her in any such capacity, or arising out of his or her status as such, whether or not the JS Foundation
+or her in any such capacity, or arising out of his or her status as such, whether or not the $FOUNDATION
 would have the power to indemnify him or her against such liability under the provisions of this Article
 VIII.
 
 ### Section 8.9 - Continuation of Indemnification and Advancement of Expenses
 
 The indemnification and advancement of expenses provided by, or granted pursuant to, this Article VIII
-shall continue as to a person who has ceased to be a Director, Officer, employee or agent of the JS
-Foundation and shall inure to the benefit of the heirs, executors and administrators of such a person.
+shall continue as to a person who has ceased to be a Director, Officer, employee or agent of the $FOUNDATION and shall inure to the benefit of the heirs, executors and administrators of such a person.
 
 ### Section 8.10 - Severability
 
@@ -979,7 +971,7 @@ expenses to the fullest extent from time to time permitted by law.
 
 ### Section 9.1 - Books and Records
 
-The JS Foundation shall keep adequate and correct books and records of account, minutes of the
+The $FOUNDATION shall keep adequate and correct books and records of account, minutes of the
 proceedings of the Members, the Board and Board Committees, and a record of the Members giving their
 names and addresses and the class of Membership held by each.
 
@@ -994,9 +986,9 @@ The Board shall cause such reports to be prepared, filed and/or distributed as m
 
 ### Section 9.4 - Record Date
 
-In order that the JS Foundation may determine the Members entitled to express consent to corporate action
+In order that the $FOUNDATION may determine the Members entitled to express consent to corporate action
 in writing without a meeting, or the Members entitled to receive payment of any distribution, if any,
-permitted by law and the JS Foundation’s then current federal and state tax status, or allotment of any
+permitted by law and the $FOUNDATION's then current federal and state tax status, or allotment of any
 rights, or entitled to exercise any rights in respect of any change, conversion or exchange of Membership or
 for the purpose of any other lawful action, the Board may fix, in advance, a record date, which shall not be
 (i) more than sixty (60) days prior to the adoption of the resolution by the Board and (in the case of consent
@@ -1007,7 +999,7 @@ day on which the Board adopts the resolution proposing the taking of such action
 
 ### Section 9.5 - Registered Members
 
-The JS Foundation shall be entitled to recognize the exclusive right of a person registered on its books as a
+The $FOUNDATION shall be entitled to recognize the exclusive right of a person registered on its books as a
 Member or a representative of a Member to receive distributions, if any, and to vote, if such records
 indicate that such person is a Voting Member or a representative of a Voting Member, and to hold liable for
 Financial Obligations each Member registered on its books, and shall not be bound to recognize any
@@ -1023,8 +1015,8 @@ Law.
 
 ### Section 10.1 - Transactions with Interested Parties
 
-No contract or transaction between the JS Foundation and one or more of its Directors or Officers, or
-between the JS Foundation and any other corporation, partnership, association, or other organization in
+No contract or transaction between the $FOUNDATION and one or more of its Directors or Officers, or
+between the $FOUNDATION and any other corporation, partnership, association, or other organization in
 which one or more of its directors or officers are directors or officers, or have a financial interest, shall be
 void or voidable solely for this reason, or solely because such Director or Officer (or other director or
 officer) is present at or participates in the meeting of the Board or Board Committee which authorizes the
@@ -1039,7 +1031,7 @@ Directors, even though the disinterested Directors be less than a quorum; or
 disclosed or are known to the Voting Members entitled to vote thereon, and the contract or transaction is
 specifically approved in good faith by vote of the Voting Members; or
 
-(c)       The contract or transaction is fair as to the JS Foundation as of the time it is authorized, approved
+(c)       The contract or transaction is fair as to the $FOUNDATION as of the time it is authorized, approved
 or ratified, by the Board, a Board Committee, or the Voting Members.
 
 Common or interested Directors may be counted in determining the presence of a quorum at a meeting of
@@ -1053,30 +1045,28 @@ the Board or Board Committee that authorizes the contract or transaction.
 ### Section 11.1 - Grants
 
 The making of grants and contributions, and otherwise rendering financial assistance for the Purposes of
-the JS Foundation, may be authorized by the Board. The Board may authorize any Officer or Officers,
-agent or agents, in the name of and on behalf of the JS Foundation to make any such grants, contributions
+the $FOUNDATION, may be authorized by the Board. The Board may authorize any Officer or Officers,
+agent or agents, in the name of and on behalf of the $FOUNDATION to make any such grants, contributions
 or assistance.
 
 ### Section 11.2 - Execution of Contracts
 
-The Board may authorize any Officer, employee or agent of the JS Foundation, in the name and on behalf
-of the JS Foundation, to enter into any contract or execute and satisfy any instrument, and any such
+The Board may authorize any Officer, employee or agent of the $FOUNDATION, in the name and on behalf
+of the $FOUNDATION, to enter into any contract or execute and satisfy any instrument, and any such
 authority may be general or confined to specific instances, or otherwise limited. In the absence of any
 action by the Board to the contrary, the President shall be authorized to execute such contracts and
-instruments on behalf of the JS Foundation, but must inform the Board of any such actions.
+instruments on behalf of the $FOUNDATION, but must inform the Board of any such actions.
 
 ### Section 11.3 - Checks, Drafts, Etc.
 
-All checks, drafts and other orders for the payment of money out of the funds of the JS Foundation, and all
-notes or other evidences of indebtedness of the JS Foundation, shall be signed on behalf of the JS
-Foundation in such manner as shall from time to time be determined by resolution of the Board.
+All checks, drafts and other orders for the payment of money out of the funds of the $FOUNDATION, and all
+notes or other evidences of indebtedness of the $FOUNDATION, shall be signed on behalf of the $FOUNDATION in such manner as shall from time to time be determined by resolution of the Board.
 
 ### Section 11.4 - Deposits
 
-The funds of the JS Foundation not otherwise employed shall be deposited from time to time to the order of
-the JS Foundation in such banks, trust companies, or other depositories, or shall be otherwise invested, as
-the Board may select or direct, or as may be selected or directed by an Officer, employee or agent of the JS
-Foundation to whom such power may from time to time be specifically delegated by the Board.
+The funds of the $FOUNDATION not otherwise employed shall be deposited from time to time to the order of
+the $FOUNDATION in such banks, trust companies, or other depositories, or shall be otherwise invested, as
+the Board may select or direct, or as may be selected or directed by an Officer, employee or agent of the $FOUNDATION to whom such power may from time to time be specifically delegated by the Board.
 
 
 
@@ -1085,17 +1075,17 @@ Foundation to whom such power may from time to time be specifically delegated by
 
 ### Section 12.1 - Fiscal Year
 
-The fiscal year of the JS Foundation shall be determined, and may be changed, by resolution of the Board.
+The fiscal year of the $FOUNDATION shall be determined, and may be changed, by resolution of the Board.
 
 ### Section 12.2 - Reserves
 
-The Directors may set apart out of any funds of the JS Foundation a reserve or reserves for any proper
+The Directors may set apart out of any funds of the $FOUNDATION a reserve or reserves for any proper
 purpose and may abolish any such reserve.
 
 ### Section 12.3 - Seal
 
 The Board may, by resolution, adopt a corporate seal. The corporate seal shall have inscribed thereon the
-name of the JS Foundation, the year of its organization and the word “Delaware”. The seal may be used by
+name of the $FOUNDATION, the year of its organization and the word "Delaware". The seal may be used by
 causing it or a facsimile thereof to be impressed or affixed or reproduced or otherwise. The seal may be
 altered from time to time by the Board.
 
@@ -1103,32 +1093,32 @@ altered from time to time by the Board.
 
 (a)       Except as specifically provided to the contrary in such policies and procedures as may from time
 to time be approved by the Board, all information disclosed by any participant during any official meeting
-or activity of the JS Foundation, including but not limited to Member meetings, Member Committee
-Meetings, JS Foundation meetings, Board meetings, meetings of Board Committees and sub-committees
+or activity of the $FOUNDATION, including but not limited to Member meetings, Member Committee
+Meetings, $FOUNDATION meetings, Board meetings, meetings of Board Committees and sub-committees
 thereof, electronic mail or the like, shall be deemed to have been disclosed on a non-confidential basis, but
 without waiver of any rights represented by valid patents, patent applications, and Federal and international
 statutory copyrights.
 
 (b)       No express or implied right, whether by implication, estoppel, or otherwise, to any patent,
 copyright, trademark, trade secret, or other intellectual property right of any Member is or shall be deemed
-to be granted to the JS Foundation or to any other Member by reason of its membership in or participation
-in the activities of the JS Foundation, except as may be provided in a separate written agreement.
+to be granted to the $FOUNDATION or to any other Member by reason of its membership in or participation
+in the activities of the $FOUNDATION, except as may be provided in a separate written agreement.
 
 (c)    No Member shall at any time be required to exchange proprietary information with any other
-Member solely by reason of its being a Member of the JS Foundation.
+Member solely by reason of its being a Member of the $FOUNDATION.
 
 ## ARTICLE XIII - ANTITRUST COMPLIANCE
 
 ### Section 13.1 - General
 
-The JS Foundation will conduct all of its activities in conformance with all international, U.S. federal and
+The $FOUNDATION will conduct all of its activities in conformance with all international, U.S. federal and
 state antitrust laws and competition laws, including but not limited to the Sherman Act, the Clayton Act,
 the Robinson-Patman Act, the Federal Trade Commission Act and the EU Competition Regulations. The
 Board and the President shall consult legal counsel and seek legal review whenever necessary to ensure that
-the activities of the JS Foundation are conducted in conformance with such laws.
+the activities of the $FOUNDATION are conducted in conformance with such laws.
 
-Each of the Members of the JS Foundation is committed to fostering competition in the development of
-new products and services, and the activities of the JS Foundation are intended to promote such
+Each of the Members of the $FOUNDATION is committed to fostering competition in the development of
+new products and services, and the activities of the $FOUNDATION are intended to promote such
 competition. Each Member acknowledges that it may compete with other Members in various lines of
 business and that it is therefore imperative that they and their representatives act in a manner that does not
 violate any applicable state, federal or international antitrust laws or regulations. Without limiting the
@@ -1138,7 +1128,7 @@ customers, or any other topic that would be prohibited by applicable antitrust l
 
 Each Member shall assume responsibility to provide appropriate legal counsel to its representatives acting
 under these Bylaws regarding the importance of limiting the scope of their discussions to the topics that
-relate to the Purposes of the JS Foundation, whether or not such discussions take place during formal
+relate to the Purposes of the $FOUNDATION, whether or not such discussions take place during formal
 meetings, informal gatherings, or otherwise.
 
 ### Section 13.2 - Availability of Intellectual Property
@@ -1151,9 +1141,9 @@ Members under the same open source license(s).
 
 ### Section 13.3 - No Obligation to Endorse
 
-No Member shall, by reason of its Membership or participation in the JS Foundation or otherwise, be
-obligated to license from the JS Foundation, use or endorse any intellectual property developed or endorsed
-by the JS Foundation, or to conform any of its products to any code base, specification or platform
+No Member shall, by reason of its Membership or participation in the $FOUNDATION or otherwise, be
+obligated to license from the $FOUNDATION, use or endorse any intellectual property developed or endorsed
+by the $FOUNDATION, or to conform any of its products to any code base, specification or platform
 developed or adopted by an Project, nor shall any such Member be precluded from independently licensing,
 using or endorsing similar intellectual property, platform, software, specifications or documentation
 developed by it or by others. No provision of these By-Laws or the membership agreement shall be
