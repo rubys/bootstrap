@@ -1,19 +1,20 @@
 Changelog:
 
 * Downloaded from [https://github.com/nodejs/board/blob/master/by-laws.md](https://raw.githubusercontent.com/nodejs/board/master/by-laws.md)
+* Replaced "NODE.JS Foundation" and "Foundation" with $FOUNDATION
 
 # BY-LAWS OF NODE.JS FOUNDATION
 
 ## ARTICLE I - NAME, PURPOSE AND OFFICES
 
 ### Section 1.1 Name
-The name of the corporation is "Node.js Foundation", and the corporation is referred to in
-these By-laws as the "Foundation".
+The name of the corporation is "$FOUNDATION", and the corporation is referred to in
+these By-laws as the "$FOUNDATION".
 
 ### Section 1.2 Principal Office
-The principal office of the Foundation shall be located at 660 York Street, San Francisco,
-CA 94110. The Board of Directors of the Foundation (each, a "Director," and collectively, the
-"Board") is hereby granted full power and authority to change the Foundation principal office
+The principal office of the $FOUNDATION shall be located at 660 York Street, San Francisco,
+CA 94110. The Board of Directors of the $FOUNDATION (each, a "Director," and collectively, the
+"Board") is hereby granted full power and authority to change the $FOUNDATION principal office
 from one location to another both within and without said state.
 
 ### Section 1.3 Other Offices
@@ -21,15 +22,15 @@ Branch or subordinate offices may at any time be established by the Board at any
 places.
 
 ### Section 1.4 Purpose
-The nature of the business or purposes to be conducted or promoted by the Foundation is
+The nature of the business or purposes to be conducted or promoted by the $FOUNDATION is
 to engage in any lawful act or activity for which corporations which are organized as not-forprofit
 may be organized under the General Corporation Law of Delaware. The primary purpose
-and mission of the Foundation (the "Purpose") is to: (a) enable widespread adoption and help
+and mission of the $FOUNDATION (the "Purpose") is to: (a) enable widespread adoption and help
 accelerate development of open source, scalable network application technologies that run across
 distributed devices (the "Platform"), (b) promote the Platform worldwide, and (c) undertake such
 other activities as may from time to time be appropriate to further the purposes and achieve the
 goals set forth above.
-In support of such Purpose, the Foundation may engage in some or all of the
+In support of such Purpose, the $FOUNDATION may engage in some or all of the
 following activities: (a) drive the development of, disseminate, support and maintain the
 Platform, (b) create various printed and/or electronic materials for distribution to members and
 non-members, (c) maintain its own website, (d) coordinate the promotion of the Platform among
@@ -38,12 +39,12 @@ web pages as well as tangible materials), and (e) undertake those other activiti
 may from time to time approve consistent with and in furtherance of the Purpose.
 
 ### Section 1.5 Nonprofit Status
-- a) The Foundation is organized and shall be operated as a non-stock, not for profit
+- a) The $FOUNDATION is organized and shall be operated as a non-stock, not for profit
 membership corporation organized under the General Corporation Law of Delaware.
 - b) The Board may, in its sole discretion, elect to seek exemption from Federal taxation
-for the Foundation pursuant to Section 501(a) of the Internal Revenue Code of 1986, as amended
+for the $FOUNDATION pursuant to Section 501(a) of the Internal Revenue Code of 1986, as amended
 - hereinafter, the "Code"). In the event that such exemption is sought and until such time, if ever,
-as such exemption is denied or lost, the Foundation shall not knowingly engage directly or
+as such exemption is denied or lost, the $FOUNDATION shall not knowingly engage directly or
 indirectly in any activity that it believes would be likely to invalidate its status as an organization
 exempt from federal income taxation under Section 501(a) of the Code as an organization
 described in Section 501(c)(6) of the Code. All references to the Code contained herein are
@@ -52,14 +53,14 @@ deemed to include corresponding provisions of any future United States Internal 
 ## ARTICLE II - MEMBERS
 
 ### Section 2.1 Classes of Membership
-The Foundation shall initially have five classes of membership: Platinum Members, Gold
+The $FOUNDATION shall initially have five classes of membership: Platinum Members, Gold
 Members, Silver Members, Associated Entity Members and Individual Members. Additional
 classes of voting and non-voting members may be created in the future, and the rights of existing
 classes of members may be amended, in each case pursuant to Section 2.10 of these By-laws.
 Platinum Members, Gold Members, Silver Members and any future classes of members that are
 entitled to general voting rights shall be collectively referred to as "Voting Members."
 Associated Entity Members and Individual Members shall be non-voting Members. All voting
-and non-voting memberships in the Foundation are collectively referred to in these By-laws as
+and non-voting memberships in the $FOUNDATION are collectively referred to in these By-laws as
 "Memberships", and a person or entity holding Membership is referred to in these By-laws as a
 "Member".
 
@@ -70,14 +71,14 @@ approval of the Board. Any association, partnership, organization, governmental 
 company, corporation, limited liability company, partnership, academic entity, non-profit or
 other entity shall be admitted to Platinum Membership, Gold Membership or Silver Membership,
 and any individual shall be admitted to Individual Membership, upon: (a) acceptance of its
-written application on such form as may be from time to time required by the Foundation (which
+written application on such form as may be from time to time required by the $FOUNDATION (which
 acceptance shall be administered in a non-discriminatory fashion), (b) satisfaction of such other
 conditions, including without limitation requirements for in-kind contributions (e.g., assignment
 of dedicated developers and maintainers to projects), as may from time to time be established by the Board for such class of Membership, if any, and (c) unless otherwise provided by the Board
 or these By-laws, payment of such application fees, assessments, initiation fees, annual dues or
 other fees for such class of Membership as may from time to time be established by the Board, if
 any (collectively, "Fees"). A Member shall remain in good standing as a Member provided such
-Member is in compliance with the terms and conditions of the Foundation’s Certificate of
+Member is in compliance with the terms and conditions of the $FOUNDATION’s Certificate of
 Incorporation, By-laws, Membership Application and such rules and policies (and the terms of
 any agreements required thereby) as the Board and/or any committees thereof (each a "Board
 Committee") may from time to time adopt, and is current in its fulfillment of all in-kind
@@ -86,7 +87,7 @@ determined by the Board (such Fees and penalties are collectively referred to in
 "Financial Obligations", and all of the foregoing good standing requirements are collectively
 referred to in these By-laws as "Membership Obligations"). No person or entity may be accepted
 for Membership if that person or entity has pre-existing, unpaid Financial Obligations to the
-Foundation.
+$FOUNDATION.
 - b) The initial term of Membership for all Platinum Members shall be three years after
 the start date of such Platinum Member’s Membership plus the period through the end of the
 calendar year (December 31) of the third year of Membership; and the initial term of
@@ -94,7 +95,7 @@ Membership for all other Members shall be one year after the start of such Membe
 Membership plus the period through the end of the calendar year (December 31) of the first year
 of Membership. Thereafter, a Member’s Membership and its Membership Obligations shall
 automatically renew on January 1 for one year periods, regardless of the class of Membership,
-unless such Member gives written notice of non-renewal to the Foundation not less than sixty (60) days prior to the end of its current Membership year, provided that the Foundation has given
+unless such Member gives written notice of non-renewal to the $FOUNDATION not less than sixty (60) days prior to the end of its current Membership year, provided that the $FOUNDATION has given
 all Members notice of upcoming renewal not less than one hundred and twenty (120) and again
 ninety (90) days prior to December 31 in such year.
 
@@ -148,12 +149,12 @@ described in Section 4.3(d) of these By-laws and subject to Section 2.9 below; a
 
 ### Section 2.8 Participation
 Participation in the Technical Steering Committee (as described in Section 5.4(b) below)
-and development projects sponsored by the Foundation shall not be limited to Members, but may
+and development projects sponsored by the $FOUNDATION shall not be limited to Members, but may
 be subject to such operating procedures and terms of participation and other rules as may from
 time to time be approved by the Board.
 
 ### Section 2.9 Subsidiaries, Etc.
-- a) Only the legal entity that has been accepted as a Member of the Foundation and
+- a) Only the legal entity that has been accepted as a Member of the $FOUNDATION and
 its Subsidiaries (as defined below) shall be entitled to enjoy the rights and privileges of such
 Member’s Membership; provided, however, that such Member and its Subsidiaries shall be
 treated together as a single Member except as otherwise provided in Section 2.9(b) below. For
@@ -168,7 +169,7 @@ the Board by virtue of its right to appoint a Director under Sections 2.3(a) and
 and (ii) the Individual Director may be an employee of a Gold or Silver Member or one of
 its Related Companies, notwithstanding the fact that such Member may already be represented
 on the Board by an employee elected to the Board of Directors. Notwithstanding anything to the
-contrary contained herein, a Related Company of a Member may join the Foundation as a Gold
+contrary contained herein, a Related Company of a Member may join the $FOUNDATION as a Gold
 Member or Silver Member and be entitled to vote separately in elections of Gold Directors and
 Silver Directors in accordance with Sections 4.3(b) and 4.3(c) below, provided that such Related
 Company shall not be entitled to nominate a representative to run for election by its class of
@@ -198,7 +199,7 @@ such policies and procedures as the Board may from time to time adopt, and the S
 assume the rights, liabilities and obligations of the Membership, including without limitation, all
 Membership Obligations, participation obligations, commitments, contributions and activities of
 the acquired Member, which shall continue and be binding upon such successor and shall inure
-to the benefit of the Foundation. In the event of a transfer within Related Companies where the
+to the benefit of the $FOUNDATION. In the event of a transfer within Related Companies where the
 Successor would be required to pay a higher dues amount than the transferor has already paid for
 the transferred Membership, the Successor shall pay the difference on a pro-rated basis for the
 balance of the then current Membership year; however, under no circumstance shall a refund of
@@ -209,7 +210,7 @@ then at the election of the Successor, either the Membership of the acquired Mem
 Membership of the Successor shall terminate effective upon closing of the acquisition; provided,
 however, the Membership Obligations and participation obligations, commitments, contributions
 and activities of the acquired Member shall continue and be binding upon such Successor and
-shall inure to the benefit of the Foundation.
+shall inure to the benefit of the $FOUNDATION.
 
 ### Section 2.10 Additional Classes of Members
 The conditions, privileges, powers, and voting rights (if any) of any class of Members
@@ -220,9 +221,9 @@ amendment to these By-laws in accordance with Article XIV.
 ### Section 2.11 Termination or Suspension of Membership
 Any Member may be suspended from Membership or have its Membership terminated by
 the Board for material failure to satisfy its Membership Obligations or for engaging within the
-Foundation, in any (1) willful misconduct or otherwise acting to the material detriment of the
-best interests of the Foundation and its Members, or (2) conduct that is contrary to the Purpose of
-the Foundation or to the advancement of the Foundation’s business or industry goals (in either
+$FOUNDATION, in any (1) willful misconduct or otherwise acting to the material detriment of the
+best interests of the $FOUNDATION and its Members, or (2) conduct that is contrary to the Purpose of
+the $FOUNDATION or to the advancement of the $FOUNDATION’s business or industry goals (in either
 case, other than conduct or actions taken in good faith reliance on Section 13 of these By-laws),
 as reasonably determined by the Board in good faith. Financial Obligations already paid shall not
 be refundable upon any such termination or suspension, and all Financial Obligations of such
@@ -236,7 +237,7 @@ suspension of Membership for any other purpose shall be effective unless:
 Membership and of the reasons therefor;
 - b) Such notice is delivered personally or by certified mail, return receipt requested, or by
 a national or international overnight courier service, sent to the last address of the Member
-shown on the Foundation’s records;
+shown on the $FOUNDATION’s records;
 - c) Such notice is given at least thirty (30) days prior to the effective date stated in the
 notice of the proposed termination or suspension of Membership;
 - d) Such notice sets forth a procedure determined by the Board (or other body authorized
@@ -246,9 +247,9 @@ represented by counsel if the Member so desires, at its sole cost and expense) o
 less than five (5) days before the effective date of the proposed termination or suspension; and
 - e) Such termination or suspension of Membership is approved by Super Majority Vote (as defined in Section 4.10(b) below) of the Board.
 Notwithstanding the foregoing, in the event that the Board believes in good faith that a
-Member is engaging within the Foundation, in any (1) willful misconduct or otherwise acting to
-the material detriment of the best interests of the Foundation and its Members, or (2) conduct
-that is contrary to the Purpose of the Foundation or to the advancement of the Foundation’s
+Member is engaging within the $FOUNDATION, in any (1) willful misconduct or otherwise acting to
+the material detriment of the best interests of the $FOUNDATION and its Members, or (2) conduct
+that is contrary to the Purpose of the $FOUNDATION or to the advancement of the $FOUNDATION’s
 business or industry goals (in either case, other than conduct or actions taken in good faith
 reliance on Section 13 of these By-laws), the Board, acting by Super Majority Vote, may
 suspend such Member’s Membership immediately, provided that such Member is otherwise
@@ -261,40 +262,40 @@ pursuant to Section 2.13 or 2.15 below, and all such Financial Obligations of su
 which may be accrued and unpaid as of such date shall remain due and payable.
 
 ### Section 2.13 Levy of Dues, Assessments or Fees
-The Foundation may levy dues, assessments or fees upon its Members in such amounts as
+The $FOUNDATION may levy dues, assessments or fees upon its Members in such amounts as
 may be approved from time to time by the Board, but shall provide at least thirty (30) days’
 notice of such levy. For the avoidance of doubt, no such levy shall be effective until at least
 thirty (30) days have passed since the provision of notice. A Member upon learning of any
 increase in dues, or of any levy of any assessments or fees, may avoid liability therefor by
 resigning from Membership prior to the date such dues, assessments or fees are due and payable,
-except where the Member is, by contract with the Foundation or otherwise, independently and
+except where the Member is, by contract with the $FOUNDATION or otherwise, independently and
 explicitly liable for such dues, assessments or fees. No provision of the Certificate of
-Incorporation or By-Laws of the Foundation authorizing such dues, assessments or fees shall, of
+Incorporation or By-Laws of the $FOUNDATION authorizing such dues, assessments or fees shall, of
 itself, create such liability. In no event shall the failure of a Member to pay any dues or
-assessments give rise to any claim in favor of the Foundation for indirect or consequential
+assessments give rise to any claim in favor of the $FOUNDATION for indirect or consequential
 damages.
 
 ### Section 2.14 Use of Names
-Unless otherwise provided herein, neither the Foundation nor any Member shall use the
+Unless otherwise provided herein, neither the $FOUNDATION nor any Member shall use the
 name, logo, trademark, service mark or other distinctive mark of another Member in any form of
-publicity without the written permission of the other member, provided that the Foundation and
-any Member may each disclose and publicize such Member’s Membership in the Foundation.
+publicity without the written permission of the other member, provided that the $FOUNDATION and
+any Member may each disclose and publicize such Member’s Membership in the $FOUNDATION.
 
 ### Section 2.15 Rights in Intellectual Property
 The Members and Board shall neither adopt, nor make any material change to, (1) any
-intellectual property rights policy of the Foundation or any other material policy or procedure of
-the Foundation governing intellectual property (individually and collectively, as the context
+intellectual property rights policy of the $FOUNDATION or any other material policy or procedure of
+the $FOUNDATION governing intellectual property (individually and collectively, as the context
 requires, an "IP Policy"), or (2) any proposed or requested change to any requirement or
 obligation in the By-laws to seek or obtain the consent by a Super Majority Vote of the
-Directors, unless approved by a Super Majority Vote of the Directors and the Foundation gives
+Directors, unless approved by a Super Majority Vote of the Directors and the $FOUNDATION gives
 not less than ninety (90) days’ prior written notice to all Members of the effective date of such
 adoption or change, such that any Member may resign its Membership prior to the effective date
 thereof in accordance with Section 2.12 above. A material change shall be deemed to include,
 without limitation, the imposition of any patent license obligation or encumbrance on Members,
 a change in a contribution agreement or license applicable to Members’ contributions, the
-combination or formal affiliation of the Foundation with another organization, any alteration in
+combination or formal affiliation of the $FOUNDATION with another organization, any alteration in
 the definition of "Related Company," or a change in the outbound license (currently the MIT
-license) for which the Foundation provides the Platform under an open source license (the "Open
+license) for which the $FOUNDATION provides the Platform under an open source license (the "Open
 Source Software").
 
 ## ARTICLE III - ACTIONS OF MEMBERS
@@ -315,17 +316,17 @@ consent shall be given to those otherwise entitled to vote thereon who have not 
 writing. An electronic transmission consenting to an action to be taken and transmitted by a
 Member or by a person or persons authorized to act for a Member or proxyholder, shall be
 deemed to be written, signed and dated for the purposes of this Section, provided that any such
-electronic transmission sets forth or is delivered with information from which the Foundation can
+electronic transmission sets forth or is delivered with information from which the $FOUNDATION can
 determine (a) that the electronic transmission was transmitted by the Member or by a person or
 persons authorized to act for the Member and (b) the date on which such Member or authorized
 person or persons transmitted such electronic transmission. The date on which such electronic
 transmission is transmitted shall be deemed to be the date on which such consent was signed.
 Consents given by electronic transmission (i) may be delivered by electronic transmission to the
-principal place of business of the Foundation or to an Officer or agent of the Foundation having
+principal place of business of the $FOUNDATION or to an Officer or agent of the $FOUNDATION having
 custody of the book in which actions of Members without a meeting are recorded, need not be
 reproduced in paper form, and may be maintained in electronic form as long as they are capable
 of being readily reproduced in paper form, and (ii) may be otherwise delivered to the principal
-place of business of the Foundation or to an Officer or agent of the Foundation having custody of
+place of business of the $FOUNDATION or to an Officer or agent of the $FOUNDATION having custody of
 the book in which actions of Members without a meeting are recorded if, to the extent and in the
 manner provided by resolution of the Board.
 Any copy, facsimile or other reliable reproduction of a consent in writing may be
@@ -335,7 +336,7 @@ complete reproduction of the entire original writing.
 
 ### Section 3.2 Nomination and Election Procedures
 Subject to the provisions of Section 4.3, the Board shall establish reasonable nomination
-and election procedures given the nature, size, and operations of the Foundation, including a
+and election procedures given the nature, size, and operations of the $FOUNDATION, including a
 reasonable means for Members of appropriate classes to nominate a person for election as a
 Director, a reasonable opportunity for a nominee to communicate to the Members the nominee’s
 qualifications and the reasons for the nominee’s candidacy (if requested by such nominee), a
@@ -345,13 +346,13 @@ reasonable opportunity for all Members entitled to vote thereon to choose among 
 ## ARTICLE IV - DIRECTORS
 
 ### Section 4.1 Powers; Voting
-The business and affairs of the Foundation shall be managed by its Board, which shall be,
-and shall possess all of the powers of, the "Governing Body" of the Foundation as a not-forprofit
+The business and affairs of the $FOUNDATION shall be managed by its Board, which shall be,
+and shall possess all of the powers of, the "Governing Body" of the $FOUNDATION as a not-forprofit
 membership corporation under General Corporation Law of Delaware. The Board may
-exercise all powers of the Foundation and do all such lawful acts and things as are not by statute
+exercise all powers of the $FOUNDATION and do all such lawful acts and things as are not by statute
 or by the Certificate of Incorporation or by these By-laws directed or required to be exercised or
 done by the Members. No Director may act for, or speak on behalf of, the Board of Directors or
-the Foundation except as directed or authorized by the Board of Directors.
+the $FOUNDATION except as directed or authorized by the Board of Directors.
 
 ### Section 4.2 Number of Directors
 Subject to Sections 4.3 and 4.4, the total number of Directors shall be at least one and not
@@ -403,7 +404,7 @@ time to time.
 - e) At the time of any election of Directors where the number of Platinum Directors is
 two or greater, the Technical Steering Committee shall designate a representative to the Board of
 Directors in accordance with Section 5.4(b) below, which representative shall automatically be a
-member of the Board (the "TSC Director"). Initially the Node.js Foundation will start with one
+member of the Board (the "TSC Director"). Initially the Node.js $FOUNDATION will start with one
 top level project, however, the Board of Directors may in the future approve the creation of one
 or more additional top level projects relevant to the Node.js community. As additional top level
 projects are approved, the Board shall determine an appropriate model for representing the
@@ -467,8 +468,8 @@ nominate Directors may be amended at any time by a Super Majority Vote (as defin
 4.10(b)) of the Board that includes a majority of the Platinum Directors then in Good Standing.
 
 ### Section 4.5 Resignation and Removal
-Any Director may resign at any time upon notice to the Foundation in writing or by
-electronic transmission at the principal place of business of the Foundation or to the Chairperson
+Any Director may resign at any time upon notice to the $FOUNDATION in writing or by
+electronic transmission at the principal place of business of the $FOUNDATION or to the Chairperson
 or Secretary. Such resignation shall be effective upon receipt unless it is specified to be effective
 at some other time or upon the happening of some other event. Any Director who was appointed
 by a Member under Section 4.3(a) may be removed by that Member at any time, and for any
@@ -477,9 +478,9 @@ voting as a class or by the Board may be removed by a majority vote of such clas
 or the Board, respectively. Unless otherwise specified by law or the Certificate of Incorporation,
 any Director may be removed by a Super Majority Vote of the other Directors (not counting the
 Director subject to such removal vote in determining the requisite vote) for engaging within the
-Foundation, in his or her capacity as Director, in any (1) willful misconduct or otherwise acting
-to the material detriment of the best interests of the Foundation and its Members, or (2) conduct
-that is contrary to the Purpose of the Foundation or to the advancement of the Foundation’s
+$FOUNDATION, in his or her capacity as Director, in any (1) willful misconduct or otherwise acting
+to the material detriment of the best interests of the $FOUNDATION and its Members, or (2) conduct
+that is contrary to the Purpose of the $FOUNDATION or to the advancement of the $FOUNDATION’s
 business or industry goals, as reasonably determined in good faith by such other Directors;
 provided, however, that the Member or class of Members that appointed and elected or
 nominated and elected (as the case may be) such removed Director shall be entitled to appoint
@@ -542,9 +543,9 @@ addition, with respect to the following matters:
   - ii) adopting or recommending to the Members an agreement of merger or
 consolidation;
   - iii) approving or recommending to the Members the sale, lease or exchange of
-all or substantially all of the Foundation’s property and assets;
+all or substantially all of the $FOUNDATION’s property and assets;
   - iv) approving or recommending to the Members the dissolution, liquidation or
-winding up of the Foundation or a revocation of any such dissolution, liquidation or winding up;
+winding up of the $FOUNDATION or a revocation of any such dissolution, liquidation or winding up;
   - v) enlarging or reducing the size of the Board;
   - vi) amending or modifying the eligibility requirements for membership on the
 Board or the classes of Members eligible to appoint and/or elect Directors;
@@ -569,7 +570,7 @@ by one for each such Director so disqualified.
 - a) Unless otherwise restricted by the Certificate of Incorporation or these By-Laws,
 any action required or permitted to be taken by the Board or any committee thereof may be taken
 without a meeting and without prior notice if a majority of Directors then in Good Standing (or
-such greater number of Directors as may be required by law or the By-laws of the Foundation for
+such greater number of Directors as may be required by law or the By-laws of the $FOUNDATION for
 the taking of any such action at a meeting) consent thereto in writing or by electronic
 transmission, and the writing or writings, or electronic transmission or transmissions, are filed
 with the minutes of proceedings of the Board, provided that:
@@ -579,7 +580,7 @@ simultaneously to all Directors then in Good Standing for their consideration;
 electronic transmission) is given to those Directors who have not consented in writing or by
 electronic transmission; and
   - iii) two (2) or more such Directors have not objected to the taking of any such
-action by written notice delivered to the Foundation within ten (10) business days following the
+action by written notice delivered to the $FOUNDATION within ten (10) business days following the
 date that written notice of the Directors action is mailed or otherwise delivered to such Directors. Such filing shall be in paper form if the minutes are maintained in paper form and shall be in
 electronic form if the minutes are maintained in electronic form.
 - b) Notwithstanding the foregoing, the ability of two (2) or more non-consenting
@@ -593,15 +594,15 @@ the manner set forth in the preceding clauses 4.11(a) and (b).
 ### Section 4.12 Inspection Rights
 Every Director shall have the absolute right at any time to inspect, copy and make
 extracts of, in person or by agent or attorney, all books, records and documents of every kind,
-and to inspect the physical properties of the Foundation.
+and to inspect the physical properties of the $FOUNDATION.
 
 ### Section 4.13 Fees and Compensation
 Directors shall not receive any stated salary or compensation for their services as
-Directors; provided that, by resolution of a majority of the Board, the Foundation may reimburse
-Directors for expenses incurred while acting on behalf of the Foundation and/or expenses
+Directors; provided that, by resolution of a majority of the Board, the $FOUNDATION may reimburse
+Directors for expenses incurred while acting on behalf of the $FOUNDATION and/or expenses
 incurred in attending meetings of the Board, in such amounts as the Board may determine to be
 appropriate. Nothing herein contained shall be construed to preclude any Director from serving
-the Foundation in any other capacity as an Officer, agent, employee or otherwise, and receiving
+the $FOUNDATION in any other capacity as an Officer, agent, employee or otherwise, and receiving
 compensation therefor. The Directors may also approve reimbursement of expenses for members
 of Board Committees in connection with their service on such Board Committees.
 
@@ -625,8 +626,8 @@ so amendable or repealable;
   - vii) amending the Certificate of Incorporation;
   - viii) adopting an agreement of merger or consolidation;
   - ix) recommending to the Members the sale, lease or exchange of all or substantially all
-of the Foundation’s property and assets;
-  - x) recommending to the Members a dissolution of the Foundation or a revocation of a
+of the $FOUNDATION’s property and assets;
+  - x) recommending to the Members a dissolution of the $FOUNDATION or a revocation of a
 dissolution; and
   - xi) taking any other action for which a vote of more than a simple majority of the Board
 is required by these By-laws, the Certificate of Incorporation, or applicable law.
@@ -656,9 +657,9 @@ Technical Steering Committee (as described in paragraph (b) below). Membership a
 and voting rights in all Member Committees shall be as specified in Article II, and any such
 Member Committee may operate under such further rules of process as it may propose and
 which are approved by the Board.
-- b) A Technical Steering Committee (the "TSC") of the Foundation shall be established,
+- b) A Technical Steering Committee (the "TSC") of the $FOUNDATION shall be established,
 with membership in the TSC consisting of the maintainers of each top level technical Project.
-Members of the TSC need not be Members of the Foundation. The TSC shall elect a Chair and a
+Members of the TSC need not be Members of the $FOUNDATION. The TSC shall elect a Chair and a
 TSC Director (as defined in Section 4.3(e)). The Chair and TSC Director may be (but are not
 required to be) the same person. The operation of the Technical Steering Committee shall be
 governed by the rules of process of such Committee as from time to time approved by the Board.
@@ -672,10 +673,10 @@ vote at such meetings.
 ## ARTICLE VI - OFFICERS
 
 ### Section 6.1 Officers
-The Officers of the Foundation shall be a Chairperson and a Vice Chairperson (each of
+The Officers of the $FOUNDATION shall be a Chairperson and a Vice Chairperson (each of
 which shall be a Platinum Director, unless no Platinum Director is willing to be nominated to
 such position) and a Secretary (each of whom shall also be a Director, unless no Director is
-willing to be nominated for such position). The Foundation may also have, at the discretion of
+willing to be nominated for such position). The $FOUNDATION may also have, at the discretion of
 the Board, an Executive Director, one or more Vice-Chairpersons, one or more Assistant
 Secretaries, and such other Officers with such titles, terms of office and duties as may be elected
 in accordance with the provisions of Section 6.3. The Chairperson shall be elected by a majority
@@ -695,11 +696,11 @@ and any or all Officers may be replaced, at any other meeting of, or by written 
 Board.
 
 ### Section 6.4 Tenure
-Each Officer of the Foundation shall hold office until his or her successor is chosen and
+Each Officer of the $FOUNDATION shall hold office until his or her successor is chosen and
 qualifies, unless a different term is specified in the vote choosing or electing him, or until his or
 her earlier death, resignation or removal. Any Officer elected by the Board may be removed at
 any time by the Board or a Board Committee duly authorized to do so. Any Officer may resign
-by delivering his or her written resignation to the Foundation at its principal place of business or
+by delivering his or her written resignation to the $FOUNDATION at its principal place of business or
 to the Secretary. Such resignation shall be effective upon receipt unless it is specified to be
 effective at some other time or upon the happening of some other event.
 
@@ -707,22 +708,22 @@ effective at some other time or upon the happening of some other event.
 - a) The Chairperson shall have all of the powers normally associated with the role of
 chief executive officer and preside at all meetings of the Board and the Members, in addition to
 any other power granted the Chairperson under these By-laws or by applicable law. The
-Chairperson shall oversee the management of the business of the Foundation and see that all
+Chairperson shall oversee the management of the business of the $FOUNDATION and see that all
 orders and resolutions of the Board are carried into effect. Without limiting the foregoing, the
 Chairperson shall:
   - i) Execute bonds, mortgages, and other contracts requiring a seal, under the seal
-of the Foundation, except where required or permitted by law to be otherwise signed and
+of the $FOUNDATION, except where required or permitted by law to be otherwise signed and
 executed and except where the signing and execution thereof shall be expressly delegated
-by the Board to some other Officer or agent of the Foundation; and
+by the Board to some other Officer or agent of the $FOUNDATION; and
   - ii) Oversee the Executive Director (if any).
 - b) The Executive Director (if any) shall preside over the day-to-day affairs of the
-Foundation under the direction of the Board and the Chairperson and perform such other duties
+$FOUNDATION under the direction of the Board and the Chairperson and perform such other duties
 and have such other powers as the Board or the Chairperson may from time to time prescribe.
 
 ### Section 6.6 Vice-Chairperson
 In the absence of the Chairperson or in the event of his or her inability or refusal to act,
 the Executive Director or the Vice-Chairperson shall perform the duties of the Chairperson
-concerning the management of the business of the Foundation, and when so acting, shall have all
+concerning the management of the business of the $FOUNDATION, and when so acting, shall have all
 the powers of and be subject to all the restrictions upon the Chairperson; provided, however, that
 nothing within this Section 6.6 shall operate to grant powers of the Chairperson as chair of the
 Board of Directors or as a member of the Board of Directors to any Executive Director ViceChairperson.
@@ -732,11 +733,11 @@ as the Board or the Chairperson may from time to time prescribe.
 ### Section 6.7 Secretary
 The Secretary shall have such powers and perform such duties as are incident to the
 office of Secretary under the General Corporation Law of Delaware, including without limitation
-a recording all the proceedings of the meetings of the Foundation and of the Board. The
+a recording all the proceedings of the meetings of the $FOUNDATION and of the Board. The
 Secretary, and each Assistant Secretary, shall have authority to affix the Corporate seal to any
 instrument requiring it and when so affixed, it may be attested by signature of the Secretary or by
 the signature of such Assistant Secretary. The Board may give general authority to any other
-Officer to affix the seal of the Foundation and to attest the affixing by such Officer’s signature.
+Officer to affix the seal of the $FOUNDATION and to attest the affixing by such Officer’s signature.
 
 ### Section 6.8 Assistant Secretaries
 Any Assistant Secretary shall, in the absence of the Secretary or in the event of his or her
@@ -755,40 +756,40 @@ an Officer.
 - a) Whenever, under the provisions of law, or of the Certificate of Incorporation or
 these By-laws, written notice is required to be given to any Director or Member, such notice may
 be given by mail, addressed to such Director or Member, at his, her or its address as it appears on
-the records of the Foundation, with postage thereon prepaid. Unless written notice by mail is
+the records of the $FOUNDATION, with postage thereon prepaid. Unless written notice by mail is
 required by law, the Certificate of Incorporation or another provision of these By-laws, and
 subject to the provisions below relating to notice by electronic transmission to Members, written
 notice may also be given by electronic mail, telecopy, commercial delivery service, or similar
 means, addressed to such Director or Member at his, her or its physical, email or telecopy
-address or number as it appears on the records of the Foundation. Without limiting the manner
+address or number as it appears on the records of the $FOUNDATION. Without limiting the manner
 by which notice otherwise may be given effectively to Members, any notice to Members given
-by the Foundation under any provision of law, the Certificate of Incorporation, or the By-laws,
+by the $FOUNDATION under any provision of law, the Certificate of Incorporation, or the By-laws,
 unless written notice by mail is required by law, the Certificate of Incorporation or another
 provision of these By-laws, shall be effective if given by a form of electronic transmission
 consented to by the Member to whom the notice is given.
 - b) Notice given pursuant to this Section shall be deemed given: (i) if by facsimile
 telecommunication (A) to a Member, when directed to a number at which the Member has
 consented to receive notice and (B) to a Director, when directed to the number for such Director
-as it appears on the records of the Foundation; (ii) if by electronic mail to (A) a Member, when
+as it appears on the records of the $FOUNDATION; (ii) if by electronic mail to (A) a Member, when
 directed to an electronic mail address at which the Member has consented to receive notice and
 - B) to a Director, when directed to the electronic mail address for such Director as it appears on
-the records of the Foundation; (iii) if by a posting on an electronic network together with
+the records of the $FOUNDATION; (iii) if by a posting on an electronic network together with
 separate notice to the Member or Director of such specific posting, upon the later of (A) such
 posting and (B) the giving of such separate notice; (iv) if by any other form of electronic
 transmission, when directed to the Member or Director; (v) if by in-hand delivery or oral notice,
 at the time it is actually given; (vi) if by mail, at the time when the same shall be deposited in the
 United States mail; and (vii) if by commercial delivery carrier or similar means, at the time when
 the same shall be deposited with the carrier, in each case the transmission charge to be paid by
-the Foundation or the person sending such notice and not by the addressee. An affidavit of the
-Secretary or an Assistant Secretary or of the transfer agent or other agent of the Foundation that
+the $FOUNDATION or the person sending such notice and not by the addressee. An affidavit of the
+Secretary or an Assistant Secretary or of the transfer agent or other agent of the $FOUNDATION that
 the notice has been given by a form of electronic transmission shall, in the absence of fraud, be
 prima facie evidence of the facts stated therein.
 - c) For purposes of these By-laws, "electronic transmission" means any form of
 communication, not directly involving the physical transmission of paper, that creates a record
 that may be retained, retrieved, and reviewed by a recipient thereof, and that may be directly
 reproduced in paper form by such a recipient through an automated process.
-- d) Without limiting the foregoing, the Foundation adopts electronic mail as its principal
-source of communication with its Members. Each Member acknowledges and agrees that the Foundation shall not be under any obligation (except as required by law or these By-laws) to
+- d) Without limiting the foregoing, the $FOUNDATION adopts electronic mail as its principal
+source of communication with its Members. Each Member acknowledges and agrees that the $FOUNDATION shall not be under any obligation (except as required by law or these By-laws) to
 send any notice to any Member by any means other than electronic mail, and it is therefore the
 responsibility of each Member to avail itself of and make such arrangements as may be
 necessary to receive notice in such fashion.
@@ -801,34 +802,34 @@ electronic transmission by the person entitled to notice, shall be deemed equiva
 
 ## ARTICLE VIII - INDEMNIFICATION
 
-### Section 8.1 Actions other than by or in the Right of the Foundation
-Subject to confirmation of the appropriateness of such action by the Board as provided in Section 8.4 below, the Foundation shall indemnify any person who was or is a party or is
+### Section 8.1 Actions other than by or in the Right of the $FOUNDATION
+Subject to confirmation of the appropriateness of such action by the Board as provided in Section 8.4 below, the $FOUNDATION shall indemnify any person who was or is a party or is
 threatened to be made a party to any threatened, pending or completed action, suit or proceeding,
 whether civil, criminal, administrative or investigative (other than an action by or in the right of
-the Foundation) by reason of the fact that he or she is or was a Director, Officer, employee or
-agent of the Foundation, or is or was serving at the request of the Foundation as a director,
+the $FOUNDATION) by reason of the fact that he or she is or was a Director, Officer, employee or
+agent of the $FOUNDATION, or is or was serving at the request of the $FOUNDATION as a director,
 officer, employee or agent of another corporation, partnership, joint venture, trust or other
 enterprise, against expenses (including attorneys’ fees), judgments, fines and amounts paid in
 settlement actually and reasonably incurred by him or her in connection with such action, suit or
 proceeding if he or she acted in good faith and in a manner he or she reasonably believed to be in
-or not opposed to the best interests of the Foundation, and, with respect to any criminal action or
+or not opposed to the best interests of the $FOUNDATION, and, with respect to any criminal action or
 proceedings, had no reasonable cause to believe this conduct was unlawful. The termination of
 any action, suit or proceeding by judgment, order, settlement, conviction, or upon a plea of nolo
 contendere or its equivalent, shall not, of itself, create a presumption that the person did not act
 in good faith and in a manner which he or she reasonably believed to be in or not opposed to the
-best interests of the Foundation, and, with respect to any criminal action or proceeding, had
+best interests of the $FOUNDATION, and, with respect to any criminal action or proceeding, had
 reasonable cause to believe that his or her conduct was unlawful.
 
-### Section 8.2 Actions by or in the Right of the Foundation
-Subject to confirmation of the appropriateness of such action by the Board as provided in Section 8.4 below, the Foundation shall indemnify any person who was or is a party or is
+### Section 8.2 Actions by or in the Right of the $FOUNDATION
+Subject to confirmation of the appropriateness of such action by the Board as provided in Section 8.4 below, the $FOUNDATION shall indemnify any person who was or is a party or is
 threatened to be made a party to any threatened, pending or completed action or suit by or in the
-right of the Foundation to procure a judgment in its favor by reason of the fact that he or she is or
-was a Director, Officer, employee or agent of the Foundation, or is or was serving at the request
-of the Foundation as a director, officer, employee or agent of another corporation, partnership,
+right of the $FOUNDATION to procure a judgment in its favor by reason of the fact that he or she is or
+was a Director, Officer, employee or agent of the $FOUNDATION, or is or was serving at the request
+of the $FOUNDATION as a director, officer, employee or agent of another corporation, partnership,
 joint venture, trust or other enterprise against expenses (including attorneys’ fees) actually and
 reasonably incurred by him or her in connection with the defense or settlement of such action or
 suit if he or she acted in good faith and in a manner he or she reasonably believed to be in or not
-opposed to the best interests of the Foundation; provided, however, that no indemnification shall
+opposed to the best interests of the $FOUNDATION; provided, however, that no indemnification shall
 be made in respect of any claim, issue or matter as to which such person shall have been
 adjudged to be liable unless, and only to the extent that, the Court of Chancery of the State of
 Delaware or the court in which such action or suit was brought shall determine upon application
@@ -845,7 +846,7 @@ connection therewith.
 
 ### Section 8.4 Specific Authorization
 Any indemnification under Section 8.1 or 8.2 of this Article VIII (unless ordered by a
-court) shall be made by the Foundation only as authorized in the specific case upon a
+court) shall be made by the $FOUNDATION only as authorized in the specific case upon a
 determination that indemnification of any person described in said Sections is proper in the
 circumstances because he or she has met the applicable standard of conduct set forth in said
 Sections. Such determination shall be made by a majority vote of a such Directors who were not
@@ -853,10 +854,10 @@ parties to such action, suit or proceeding, even though less than a quorum.
 
 ### Section 8.5 Advance Payment
 Expenses incurred in defending a civil or criminal action, suit or proceeding shall be paid
-by the Foundation in advance of the final disposition of such action, suit or proceeding upon
+by the $FOUNDATION in advance of the final disposition of such action, suit or proceeding upon
 receipt of an undertaking by or on behalf of any person described in said Section to repay such
 amount if it shall ultimately be determined that he or she is not entitled to indemnification by the
-Foundation as authorized in this Article VIII.
+$FOUNDATION as authorized in this Article VIII.
 
 ### Section 8.6 Non-Exclusivity
 The indemnification and advancement of expenses provided by, or granted pursuant to,
@@ -868,22 +869,22 @@ capacity and as to action in another capacity while holding such office.
 ### Section 8.7 Jurisdiction of Delaware Court of Chancery
 The Delaware Court of Chancery is vested with exclusive jurisdiction to hear and
 determine all actions for advancement of expenses or indemnification. The Delaware Court of
-Chancery may summarily determine the Foundation’s obligation to advance expenses (including
+Chancery may summarily determine the $FOUNDATION’s obligation to advance expenses (including
 attorney’s fees).
 
 ### Section 8.8 Insurance
-The Board may authorize the Foundation to purchase and maintain insurance on behalf of
-any person who is or was a Director, Officer, employee or agent of the Foundation, or is or was
-serving at the request of the Foundation as a director, officer, employee or agent of another
+The Board may authorize the $FOUNDATION to purchase and maintain insurance on behalf of
+any person who is or was a Director, Officer, employee or agent of the $FOUNDATION, or is or was
+serving at the request of the $FOUNDATION as a director, officer, employee or agent of another
 corporation, partnership, joint venture, trust or other enterprise against any liability asserted
 against him or her and incurred by him or her in any such capacity, or arising out of his or her
-status as such, whether or not the Foundation would have the power to indemnify him or her
+status as such, whether or not the $FOUNDATION would have the power to indemnify him or her
 against such liability under the provisions of this Article VIII.
 
 ### Section 8.9 Continuation of Indemnification and Advancement of Expenses
 The indemnification and advancement of expenses provided by, or granted pursuant to,
 this Article VIII shall continue as to a person who has ceased to be a Director, Officer, employee
-or agent of the Foundation and shall inure to the benefit of the heirs, executors and
+or agent of the $FOUNDATION and shall inure to the benefit of the heirs, executors and
 administrators of such a person.
 
 ### Section 8.10 Severability
@@ -902,7 +903,7 @@ time permitted by law.
 ## ARTICLE IX - BOOKS AND RECORDS
 
 ### Section 9.1 Books and Records
-The Foundation shall keep adequate and correct books and records of account, minutes of
+The $FOUNDATION shall keep adequate and correct books and records of account, minutes of
 the proceedings of the Members, the Board and Board Committees, and a record of the Members
 giving their names and addresses and the class of Membership held by each.
 
@@ -915,9 +916,9 @@ The Board shall cause such reports to be prepared, filed and/or distributed as m
 required.
 
 ### Section 9.4 Record Date
-In order that the Foundation may determine the Members entitled to express consent to
+In order that the $FOUNDATION may determine the Members entitled to express consent to
 corporate action in writing without a meeting, or the Members entitled to receive payment of any
-distribution, if any, permitted by law and the Foundation’s then current federal and state tax
+distribution, if any, permitted by law and the $FOUNDATION’s then current federal and state tax
 status, or allotment of any rights, or entitled to exercise any rights in respect of any change,
 conversion or exchange of Membership or for the purpose of any other lawful action, the Board
 may fix, in advance, a record date, which shall not be (i) more than sixty (60) days prior to the
@@ -928,7 +929,7 @@ action. In the absence of such a determination, the record date shall be at the 
 the day on which the Board adopts the resolution proposing the taking of such action.
 
 ### Section 9.5 Registered Members
-The Foundation shall be entitled to recognize the exclusive right of a person registered on
+The $FOUNDATION shall be entitled to recognize the exclusive right of a person registered on
 its books as a Member or a representative of a Member to receive distributions, if any, and to
 vote, if such records indicate that such person is a Voting Member or a representative of a Voting
 Member, and to hold liable for Financial Obligations each Member registered on its books, and
@@ -939,8 +940,8 @@ otherwise provided by the General Corporation Law of Delaware.
 ## ARTICLE X - CERTAIN TRANSACTIONS
 
 ### Section 10.1 Transactions with Interested Parties
-No contract or transaction between the Foundation and one or more of its Directors or
-Officers, or between the Foundation and any other corporation, partnership, association, or other
+No contract or transaction between the $FOUNDATION and one or more of its Directors or
+Officers, or between the $FOUNDATION and any other corporation, partnership, association, or other
 organization in which one or more of its directors or officers are Directors or Officers, or have a
 financial interest, shall be void or voidable solely for this reason, or solely because such Director
 or Officer (or other director or officer) is present at or participates in the meeting of the Board or
@@ -954,7 +955,7 @@ than a quorum; or
 - b) The material facts as to his or her relationship or interest and as to the contract or
 transaction are disclosed or are known to the Voting Members entitled to vote thereon, and the
 contract or transaction is specifically approved in good faith by vote of the Voting Members; or
-- c) The contract or transaction is fair as to the Foundation as of the time it is authorized,
+- c) The contract or transaction is fair as to the $FOUNDATION as of the time it is authorized,
 approved or ratified, by the Board, a Board Committee, or the Voting Members.
 Common or interested Directors may be counted in determining the presence of a quorum
 at a meeting of the Board or Board Committee that authorizes the contract or transaction.
@@ -963,75 +964,75 @@ at a meeting of the Board or Board Committee that authorizes the contract or tra
 
 ### Section 11.1 Grants
 The making of grants and contributions, and otherwise rendering financial assistance for
-the Purpose of the Foundation, may be authorized by the Board. The Board may authorize any
-Officer or Officers, agent or agents, in the name of and on behalf of the Foundation to make any
+the Purpose of the $FOUNDATION, may be authorized by the Board. The Board may authorize any
+Officer or Officers, agent or agents, in the name of and on behalf of the $FOUNDATION to make any
 such grants, contributions or assistance.
 
 ### Section 11.2 Execution of Contracts
-The Board may authorize any Officer, employee or agent of the Foundation, in the name
-and on behalf of the Foundation, to enter into any contract or execute and satisfy any instrument,
+The Board may authorize any Officer, employee or agent of the $FOUNDATION, in the name
+and on behalf of the $FOUNDATION, to enter into any contract or execute and satisfy any instrument,
 and any such authority may be general or confined to specific instances, or otherwise limited. In
 the absence of any action by the Board to the contrary, the Chairperson shall be authorized to
-execute such contracts and instruments on behalf of the Foundation as he or she may deem to be
+execute such contracts and instruments on behalf of the $FOUNDATION as he or she may deem to be
 reasonably necessary, subject to such standing limits as may from time to time have been
 established by vote of the Board, but must inform the Board of any such actions.
 
 ### Section 11.3 Checks, Drafts, Etc.
 All checks, drafts and other orders for the payment of money out of the funds of the
-Foundation, and all notes or other evidences of indebtedness of the Foundation, shall be signed
-on behalf of the Foundation in such manner as shall from time to time be determined by
+$FOUNDATION, and all notes or other evidences of indebtedness of the $FOUNDATION, shall be signed
+on behalf of the $FOUNDATION in such manner as shall from time to time be determined by
 resolution of the Board.
 
 ### Section 11.4 Deposits
-The funds of the Foundation not otherwise employed shall be deposited from time to time
-to the order of the Foundation in such banks, trust companies, or other depositories, or shall be
+The funds of the $FOUNDATION not otherwise employed shall be deposited from time to time
+to the order of the $FOUNDATION in such banks, trust companies, or other depositories, or shall be
 otherwise invested, as the Board may select or direct, or as may be selected or directed by an
-Officer, employee or agent of the Foundation to whom such power may from time to time be
+Officer, employee or agent of the $FOUNDATION to whom such power may from time to time be
 specifically delegated by the Board.
 
 ## ARTICLE XII - GENERAL PROVISIONS
 
 ### Section 12.1 Fiscal Year
-The fiscal year of the Foundation shall initially end on December 31, subject to change at
+The fiscal year of the $FOUNDATION shall initially end on December 31, subject to change at
 any time by resolution of the Board.
 
 ### Section 12.2 Reserves
-The Directors may set apart out of any funds of the Foundation a reserve or reserves for
+The Directors may set apart out of any funds of the $FOUNDATION a reserve or reserves for
 any proper purpose and may abolish any such reserve.
 
 ### Section 12.3 Seal
 The Board may, by resolution, adopt a corporate seal. The corporate seal shall have
-inscribed thereon the name of the Foundation, the year of its organization and the word
+inscribed thereon the name of the $FOUNDATION, the year of its organization and the word
 "Delaware". The seal may be used by causing it or a facsimile thereof to be impressed or affixed
 or reproduced or otherwise. The seal may be altered from time to time by the Board.
 
 ### Section 12.4 Proprietary Rights
 - a) Except as specifically provided to the contrary in such policies and procedures as may
 from time to time be approved by the Board, all information disclosed by any participant during
-any official meeting or activity of the Foundation, including but not limited to Member meetings,
-Member Committee Meetings, Foundation meetings, Board meetings, meetings of Board
+any official meeting or activity of the $FOUNDATION, including but not limited to Member meetings,
+Member Committee Meetings, $FOUNDATION meetings, Board meetings, meetings of Board
 Committees and sub-committees thereof, electronic mail or the like, shall be deemed to have
 been disclosed on a non-confidential basis, but without waiver of any rights represented by valid
 patents, patent applications, and Federal and international statutory copyrights.
 - b) No express or implied right, whether by implication, estoppel, or otherwise, to any
 patent, copyright, trademark, trade secret, or other intellectual property right of any Member is or
-shall be deemed to be granted to the Foundation or to any other Member by reason of its
-Membership in or participation in the activities of the Foundation, except as may be provided in
+shall be deemed to be granted to the $FOUNDATION or to any other Member by reason of its
+Membership in or participation in the activities of the $FOUNDATION, except as may be provided in
 a separate written agreement or IP Policy.
 - c) No Member shall at any time be required to exchange proprietary information with
-any other Member solely by reason of its being a Member of the Foundation.
+any other Member solely by reason of its being a Member of the $FOUNDATION.
 
 ## ARTICLE XIII - ANTITRUST COMPLIANCE
 
 ### Section 13.1 General
-The Foundation will conduct all of its activities in conformance with all international,
+The $FOUNDATION will conduct all of its activities in conformance with all international,
 U.S. federal and state antitrust laws and competition laws, including but not limited to the
 Sherman Act, the Clayton Act, the Robinson-Patman Act, the Federal Trade Commission Act
 and the EU Competition Regulations. The Board and the Chairperson shall consult legal counsel
-and seek legal review whenever necessary to ensure that the activities of the Foundation are
+and seek legal review whenever necessary to ensure that the activities of the $FOUNDATION are
 conducted in conformance with such laws.
-Each of the Members of the Foundation is committed to fostering competition in the
-development of new products and services, and the activities of the Foundation are intended to
+Each of the Members of the $FOUNDATION is committed to fostering competition in the
+development of new products and services, and the activities of the $FOUNDATION are intended to
 promote such competition. Each Member acknowledges that it may compete with other
 Members in various lines of business and that it is therefore imperative that they and their
 representatives act in a manner that does not violate any applicable state, federal or international
@@ -1041,20 +1042,20 @@ channels of product distribution, division of markets, allocation of customers, 
 that would be prohibited by applicable antitrust laws.
 Each Member shall assume responsibility to provide appropriate legal counsel to
 its representatives acting under these By-laws regarding the importance of limiting the scope of
-their discussions to the topics that relate to the Purpose of the Foundation, whether or not such
+their discussions to the topics that relate to the Purpose of the $FOUNDATION, whether or not such
 discussions take place during formal meetings, informal gatherings or otherwise.
 
 ### Section 13.2 Availability of Intellectual Property
-It is the good faith objective of the Foundation (a) to make all Open Source Software
-available promptly as it is developed and owned by the Foundation on the same terms and
+It is the good faith objective of the $FOUNDATION (a) to make all Open Source Software
+available promptly as it is developed and owned by the $FOUNDATION on the same terms and
 conditions to all Members and at the same point in time to all Members, and (b) to make all such
 Open Source Software available to all non-Members under the same Open Source license(s).
 
 ### Section 13.3 No Obligation to Endorse
-No Member shall, by reason of its Membership or participation in the Foundation or
-otherwise, be obligated to license from the Foundation, use or endorse any intellectual property
-developed or endorsed by the Foundation, or to conform any of its products to any Platform
-developed or adopted by the Foundation, nor shall any such Member be precluded from
+No Member shall, by reason of its Membership or participation in the $FOUNDATION or
+otherwise, be obligated to license from the $FOUNDATION, use or endorse any intellectual property
+developed or endorsed by the $FOUNDATION, or to conform any of its products to any Platform
+developed or adopted by the $FOUNDATION, nor shall any such Member be precluded from
 independently licensing, using or endorsing similar intellectual property, platform, software,
 specifications or documentation developed by it or by others. No provision of these By-Laws or
 the membership agreement shall be interpreted to prevent any Member from using any
