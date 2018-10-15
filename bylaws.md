@@ -3,7 +3,7 @@ Changelog:
 * Downloaded from [https://github.com/nodejs/board/blob/master/by-laws.md](https://raw.githubusercontent.com/nodejs/board/master/by-laws.md)
 * Replaced "NODE.JS Foundation" and "Foundation" with $FOUNDATION
 
-# BY-LAWS OF NODE.JS FOUNDATION
+# BY-LAWS OF $FOUNDATION
 
 ## ARTICLE I - NAME, PURPOSE AND OFFICES
 
