@@ -83,14 +83,15 @@ collectively referred to as "Voting Members."
 ### Section 2.2 Conditions and Term of Membership
 
 (a)       Any association, partnership, organization, governmental agency, company, corporation, academic
-entity, or non-profit entity shall be admitted to Membership upon: (i) acceptance of its written application
-on such form as may be from time to time required by the $FOUNDATION (which acceptance shall be
-administered in a non-discriminatory fashion), (ii) satisfaction of such other conditions, including without
-limitation requirements for in-kind contributions (e.g. assignment of dedicated developers and maintainers
-to projects), as may from time to time be established by the Board for such class of Membership, if any,
+entity, or non-profit entity shall be admitted to Membership upon: (i) acceptance of its
+written application on such form as may be from time to time required by the $FOUNDATION (which
+acceptance shall be administered in a non-discriminatory fashion), (ii) satisfaction of such other
+conditions, including without limitation requirements for in-kind contributions (e.g. assignment
+of dedicated developers and maintainers to projects), as may from time to time be established by the Board for such class of Membership, if any,
 and (iii) unless otherwise provided by the Board, payment of such application fees, assessments, initiation
-fees, annual dues or other fees for such class of Membership as may from time to time be established by the
-Board, if any (collectively, "Fees"). A Member shall remain in good standing as a Member provided such
+fees, annual dues or
+other fees for such class of Membership as may from time to time be established by the Board, if
+any (collectively, "Fees"). A Member shall remain in good standing as a Member provided such
 Member is in compliance with the terms and conditions of the $FOUNDATION's Certificate of Incorporation,
 By-laws, Membership Application, and such rules and policies (and the terms of any agreements required
 thereby) as the Board and/or any committees thereof (each a "Board Committee") may from time to time
