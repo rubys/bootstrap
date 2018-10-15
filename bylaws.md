@@ -289,77 +289,76 @@ change in the license applicable to Members' contributions.
 ## ARTICLE III - ACTIONS OF MEMBERS
 
 ### Section 3.1 Action Without Meeting
-
-Any action required or permitted to be taken by the Members, or any class of Members under the General
-Corporation Law of Delaware, or at any meeting of a Member Committee, Working Group thereof or other
-group of Members or subset of Members, may be taken without prior notice and without an in-person vote,
-if a consent in writing, setting forth the action to be taken, shall be signed by Members (or all members of a
-class of Members, as the case may be), making up not less than that percentage of all Members as would be
-necessary to authorize or take such action at a meeting at which all Members (or class of Members, as the
-case may be) entitled to vote thereon were present and voted, in accordance with Section 2.15(c) of the
-General Corporation Law of Delaware. Pursuant to such written consent, the Voting Members shall elect a
-Board in accordance with Section 4.3 on an annual basis. Prompt notice of the taking of any corporate
-action without a meeting by less than unanimous written consent shall be given to those otherwise entitled
-to vote thereon who have not consented in writing. An electronic transmission consenting to an action to
-be taken and transmitted by a Member or by a person or persons authorized to act for a Member or
-proxyholder, shall be deemed to be written, signed and dated for the purposes of this Section, provided that
-any such electronic transmission sets forth or is delivered with information from which the $FOUNDATION
-can determine (a) that the electronic transmission was transmitted by the Member or by a person or persons
-authorized to act for the Member and (b) the date on which such Member or authorized person or persons
-transmitted such electronic transmission. The date on which such electronic transmission is transmitted
-shall be deemed to be the date on which such consent was signed. Consents given by electronic
-transmission (i) may be delivered by electronic transmission to the principal place of business of the $FOUNDATION or to an Officer or agent of the $FOUNDATION having custody of the book in which actions of
-Members without a meeting are recorded, need not be reproduced in paper form, and may be maintained in
-electronic form as long as they are capable of being readily reproduced in paper form, and (ii) may be
-otherwise delivered to the principal place of business of the $FOUNDATION or to an Officer or agent of the
-
-$FOUNDATION having custody of the book in which actions of Members without a meeting are recorded if,
-to the extent and in the manner provided by resolution of the Board.
-
-Any copy, facsimile or other reliable reproduction of a consent in writing may be substituted or used in lieu
-of the original writing for any and all purposes for which the original writing could be used, provided that
-such copy, facsimile or other reproduction shall be a complete reproduction of the entire original writing.
+Any action required or permitted to be taken by the Members, or any class of Members
+under the General Corporation Law of Delaware, or at any meeting of a Member
+Committee, Working Group thereof or 
+other group of Members or subset of Members, may be taken without prior notice and without an
+in-person vote, if a consent in writing, setting forth the action to be taken, shall be signed by
+Members (or all members of a class of Members, as the case may be), making up not less than that
+percentage of all Members as would be necessary to authorize or take such action at a meeting at
+which all Members (or class of Members, as the case may be) entitled to vote thereon were
+present and voted, in accordance with Section 2.15(c) of the General Corporation Law of
+Delaware. Pursuant to such written consent, the Voting Members shall elect a Board in accordance
+with Section 4.3 on an annual basis. Prompt
+notice of the taking of any corporate action without a meeting by less than unanimous written
+consent shall be given to those otherwise entitled to vote thereon who have not consented in
+writing. An electronic transmission consenting to an action to be taken and transmitted by a
+Member or by a person or persons authorized to act for a Member or proxyholder, shall be
+deemed to be written, signed and dated for the purposes of this Section, provided that any such
+electronic transmission sets forth or is delivered with information from which the $FOUNDATION can
+determine (a) that the electronic transmission was transmitted by the Member or by a person or
+persons authorized to act for the Member and (b) the date on which such Member or authorized
+person or persons transmitted such electronic transmission. The date on which such electronic
+transmission is transmitted shall be deemed to be the date on which such consent was signed.
+Consents given by electronic transmission (i) may be delivered by electronic transmission to the
+principal place of business of the $FOUNDATION or to an Officer or agent of the $FOUNDATION having
+custody of the book in which actions of Members without a meeting are recorded, need not be
+reproduced in paper form, and may be maintained in electronic form as long as they are capable
+of being readily reproduced in paper form, and (ii) may be otherwise delivered to the principal
+place of business of the $FOUNDATION or to an Officer or agent of the $FOUNDATION having custody of
+the book in which actions of Members without a meeting are recorded if, to the extent and in the
+manner provided by resolution of the Board.
+Any copy, facsimile or other reliable reproduction of a consent in writing may be
+substituted or used in lieu of the original writing for any and all purposes for which the original
+writing could be used, provided that such copy, facsimile or other reproduction shall be a
+complete reproduction of the entire original writing.
 
 ### Section 3.2 Nomination and Election Procedures
-
-Subject to the provisions of Section 4.3, the Board shall establish reasonable nomination and election
-procedures given the nature, size, and operations of the $FOUNDATION, including a reasonable means for
-Members of appropriate classes to nominate a person for election as a Director, a reasonable opportunity
-for a nominee to communicate to the Members the nominee's qualifications and the reasons for the
-nominee's candidacy (if requested by such nominee), a reasonable opportunity for all nominees to solicit
-votes (if requested by any such nominee), and a reasonable opportunity for all Members entitled to vote
-thereon to choose among the nominees.
-
-
-
+Subject to the provisions of Section 4.3, the Board shall establish reasonable nomination
+and election procedures given the nature, size, and operations of the $FOUNDATION, including a
+reasonable means for Members of appropriate classes to nominate a person for election as a
+Director, a reasonable opportunity for a nominee to communicate to the Members the nominee's
+qualifications and the reasons for the nominee's candidacy (if requested by such nominee), a
+reasonable opportunity for all nominees to solicit votes (if requested by any such nominee), and a
+reasonable opportunity for all Members entitled to vote thereon to choose among the nominees.
 
 ## ARTICLE IV - DIRECTORS
 
 ### Section 4.1 Powers; Voting
-
-The business and affairs of the $FOUNDATION shall be managed by its Board, which shall be, and shall
-possess all of the powers of, the "Governing Body" of the $FOUNDATION as a not-for-profit membership
-corporation under Delaware General Corporation Law. The Board may exercise all powers of the $FOUNDATION and do all such lawful acts and things as are not by statute or by the Certificate of Incorporation
-or by these By-laws directed or required to be exercised or done by the Members.
+The business and affairs of the $FOUNDATION shall be managed by its Board, which shall be,
+and shall possess all of the powers of, the "Governing Body" of the $FOUNDATION as a not-for-profit
+membership corporation under Delaware General Corporation Law. The Board may
+exercise all powers of the $FOUNDATION and do all such lawful acts and things as are not by statute
+or by the Certificate of Incorporation or by these By-laws directed or required to be exercised or
+done by the Members.
 
 ### Section 4.2 Number of Directors
-
-(a)      Subject to Section 4.2(b) and Section 4.4 below, the total number of Directors shall be the number
+(a) Subject to Section 4.2(b) and Section 4.4 below, the total number of Directors shall be the number
 of Platinum Members, plus the number of Gold Members divided by three (3) (rounded down to the nearest
 whole number but at least one (1) at any time there is at least one (1) Gold Member), plus the number of
 Silver Members divided by ten (10) (rounded down to the nearest whole number but at least one (1) at any
-time there is at least one (1) Silver Member), plus one (1) (the "Maximum Director Number"). The Board
-shall comprise the Directors described in Section 4.3 below.
+time there is at least one (1) Silver Member), plus one (1) (the "Maximum Director
+Number"). The Board shall comprise the Directors described in Section 4.3 below.
 
-(b)     In no event shall the Maximum Director Number ever exceed two (2) times the number of
+(b) In no event shall the Maximum Director Number ever exceed two (2) times the number of
 Platinum Members.
 
 ### Section 4.3 Nomination, Election and Term of Office of Directors
 
-(a)       Each Platinum Member (while remaining in good standing) shall be entitled individually to
-appoint one Director (each a "Platinum Director"). Each Platinum Director shall serve until the next annual
-action of Members without a meeting and until his or her successor shall be duly appointed or until his or
-her earlier resignation or removal.
+(a)       Each Platinum Member (while remaining in good standing) shall be entitled
+individually to appoint one Director (each a "Platinum Director"). Each Platinum Director shall
+serve until the next annual action of Members without a meeting and until his or her successor shall be duly
+appointed or until his or her earlier resignation or removal.
 
 (b)      Each Gold Member (while remaining in good standing) shall have the right to vote, together with
 the other Gold Members as a class, and to elect a number of Directors (each, a "Gold Director") equal to
@@ -368,7 +367,8 @@ the greater of (i) one (1) and (ii) the number of Gold Members then in good stan
 
 Gold-elected Board seats do not exceed the number of Platinum-elected Board seats minus one.Each Gold
 Director shall serve in accordance with Section 4.3(e) below and until his or her successor is elected and
-qualified or until his or her earlier resignation or removal. The selection of nominees for such position(s)
+qualified or 
+until his or her earlier resignation or removal. The selection of nominees for such position(s)
 shall be performed under such nominating procedures as may be set by the Board from time to time.
 Notwithstanding anything to the contrary contained herein, in the event that after any annual election of
 Directors, the number of Platinum Members decreases, resulting in a corresponding decrease in the
@@ -377,7 +377,7 @@ previously elected exceeds the number specified in this Section 4.3(b), then in 
 Directors previously elected may serve until the next annual election of Directors, at which time the
 required decrease in the number of Gold Directors shall take effect.
 
-(c)      Each Silver Member (while remaining in good standing) shall have the right to vote, together with
+(c)Each Silver Member (while remaining in good standing) shall have the right to vote, together with
 the other Silver Members as a class, and to elect a number of Directors (each, a "Silver Director") equal to
 the greater of (i) one (1) and (ii) the number of Silver Members then in good standing divided by ten (10)
 (rounded down to the nearest whole number) up to a maximum of three (3); provided that the number of
@@ -436,41 +436,43 @@ requirements have not been met, and/or that a Director who fails to meet such re
 automatically be deemed to have resigned from the Board, but no such rule may be imposed retroactively.
 
 ### Section 4.4 Enlargement or Reduction
-
-Subject to Section 2.8 above and Section 4.10 below, the number of Directors, the persons eligible to
-become Directors and the classes of Members eligible to appoint, elect and/or nominate Directors may be
-amended at any time by a Super Majority Vote (as defined in Section 4.10(b)) of the Board.
+Subject to Section 2.9 above and Section 4.10 below, the number of Directors, the
+persons eligible to become Directors and the classes of Members eligible to appoint, elect and/or
+nominate Directors may be amended at any time by a Super Majority Vote (as defined in Section
+4.10(b)) of the Board.
 
 ### Section 4.5 Resignation and Removal
-
-Any Director may resign at any time upon notice to the $FOUNDATION in writing or by electronic
-transmission at the principal place of business of the $FOUNDATION or to the President or Secretary. Such
-resignation shall be effective upon receipt unless it is specified to be effective at some other time or upon
-the happening of some other event. Any Director who was appointed by a Member under Section 4.3(a)
-may be removed by that Member at any time, and for any reason, or for no reason. Any or all of the
-Directors who were elected by a class of Members voting as a class or by the Board may be removed by a
-majority vote of such class of Members or the Board, respectively. Unless otherwise specified by law or
-the Certificate of Incorporation, any Director may be removed by a majority of the other Directors then in
-office for engaging in any conduct, either within or without the $FOUNDATION, that is contrary to the
-interests of the $FOUNDATION or to the advancement of the $FOUNDATION's business or industry goals;
-provided, however, that the Member or class of Members that appointed and elected or nominated and
-elected (as the case may be) such removed Director shall be entitled to appoint and elect or nominate and
-elect (as the case may be) a replacement for such removed Director to serve for the balance of such
-removed Director's term. The TAC Director shall automatically cease to be a Director at such time as he or
-she ceases for any reason to be the Chair of the TAC.
+Any Director may resign at any time upon notice to the $FOUNDATION in writing or by
+electronic transmission at the principal place of business of the $FOUNDATION or to the President
+or Secretary. Such resignation shall be effective upon receipt unless it is specified to be effective
+at some other time or upon the happening of some other event. Any Director who was appointed
+by a Member under Section 4.3(a) may be removed by that Member at any time, and for any
+reason, or for no reason. Any or all of the Directors who were elected by a class of Members
+voting as a class or by the Board may be removed by a majority vote of such class of Members
+or the Board, respectively. Unless otherwise specified by law or the Certificate of Incorporation,
+any Director may be removed by a majority of the other Directors then in office for engaging
+in any conduct, either within or without the $FOUNDATION, that is contrary to the interests
+of the $FOUNDATION or to the advancement of the $FOUNDATION's business or industry goals;
+provided, however, that the Member or class of Members that appointed and elected or
+nominated and elected (as the case may be) such removed Director shall be entitled to appoint
+and elect or nominate and elect (as the case may be) a replacement for such removed Director to
+serve for the balance of such removed Director's term. The TAC Director shall
+automatically cease to be a Director at such time as he or she ceases for any reason to be
+the Chair of the TAC.
 
 ### Section 4.6 Vacancies
 
-(a)      Vacancies on the Board occurring as a result of the death, resignation, removal or termination of
-employment of a Director who was appointed and elected by a Member, or who was nominated and elected
-by a class of Members, may be filled by such Member or class of Members, as applicable. All other
-vacancies shall be filled by the vote of a majority of Directors then in office, whether or not less than a
-quorum, or by a sole remaining Director. The term of a Director so appointed or elected shall be the
-unexpired portion of the term of the Director, if any, whom the Director so appointed or elected is
-replacing.
+(a) Vacancies on the Board occurring as a result of the death, resignation, removal or
+termination of employment of a Director who was appointed and elected by a Member, or who
+was nominated and elected by a class of Members, may be filled by such Member or class of
+Members, as applicable. All other vacancies shall be filled by the
+vote of a majority of Directors then in office, whether or not less than a quorum, or by a sole
+remaining Director. The term of a Director so appointed or elected shall be the unexpired portion
+of the term of the Director, if any, whom the Director so appointed or elected is replacing.
 
-(b)      In the event of a vacancy in the Board, the remaining Directors, except as otherwise provided by
-law or these By-laws, may exercise the powers of the full Board until the vacancy is filled.
+(b) In the event of a vacancy in the Board, the remaining Directors, except as otherwise
+provided by law or these By-laws, may exercise the powers of the full Board until the vacancy is
+filled.
 
 ### Section 4.7 Place of Meetings
 
@@ -478,9 +480,9 @@ The Board may hold meetings, both regular and special, either within or without 
 
 ### Section 4.8 Regular Meetings
 
-Regular meetings of the Board may be held without notice at such time and at such place as shall from time
-to time be determined by the Board; provided that any Director who is absent when such a determination is
-made shall be given prompt notice of such determination.
+Regular meetings of the Board may be held without notice at such time and at such place as
+shall from time to time be determined by the Board; provided that any Director who is absent
+when such a determination is made shall be given prompt notice of such determination.
 
 ### Section 4.9 Special Meetings
 
@@ -501,8 +503,9 @@ Certificate of Incorporation or these By-laws.
 
 (b)     In order to pass a "Super Majority Vote", a resolution must be taken at a meeting of the Board at
 which a quorum is present and in support of which two-thirds of all Directors have voted affirmatively, or
-by an equivalent number of Directors acting by written consent in the manner described in Section 4.11
-below. A Super Majority Vote of the Board shall be required with respect to the following matters:
+by an equivalent 
+number of Directors acting by written consent in the manner described in Section 4.11 below. A
+Super Majority Vote of the Board shall be required with respect to the following matters:
 
 (i)      Amending the Certificate of Incorporation;
 
@@ -533,47 +536,48 @@ below. A Super Majority Vote of the Board shall be required with respect to the 
 (xii)    Elimination of the Platinum Member right set forth in Section 2.3 above.
 
 (c) No Director whose attendance and voting rights have been suspended shall be counted for purposes of
-determining quorum, the number of Directors then in office or the number of Directors required for voting
-purposes, unless otherwise required by law, these By-laws or the Certificate of Incorporation. If a quorum
-shall not be present at any meeting of the Board, a majority of the Directors present thereat may adjourn the
-meeting from time to time, without notice other than announcement at the meeting, until a quorum shall be
-present. In the event that one or more of the Directors shall be disqualified from voting at any meeting
-upon any matter, then the required quorum as it relates to the consideration of such matter shall be reduced
+determining quorum, the number of Directors then in office or the
+number of Directors required for voting purposes, unless otherwise required by law, these By-laws
+or the Certificate of Incorporation. If a quorum shall not be present at any meeting of the
+Board, a majority of the Directors present thereat may adjourn the meeting from time to time,
+without notice other than announcement at the meeting, until a quorum shall be present. In the
+event that one or more of the Directors shall be disqualified from voting at any meeting upon any
+matter, then the required quorum as it relates to the consideration of such matter shall be reduced
 by one for each such Director so disqualified.
 
 ### Section 4.11 Action by Consent
 
-(a) Unless otherwise restricted by the Certificate of Incorporation or these By-Laws, any action required or
-permitted to be taken by the Board may be taken without a meeting and without prior notice if a majority of
-Directors then in office (or such greater number of Directors as may be required by law or the By-laws of
-the $FOUNDATION for the taking of any such action at a meeting) consent thereto in writing or by electronic
-transmission, and the writing or writings, or electronic transmission or transmissions, are filed with the
-minutes of proceedings of the Board, provided that:
+(a) Unless otherwise restricted by the Certificate of Incorporation or these By-Laws,
+any action required or permitted to be taken by the Board may be taken
+without a meeting and without prior notice if a majority of Directors then in office (or
+such greater number of Directors as may be required by law or the By-laws of the $FOUNDATION for
+the taking of any such action at a meeting) consent thereto in writing or by electronic
+transmission, and the writing or writings, or electronic transmission or transmissions, are filed
+with the minutes of proceedings of the Board, provided that:
 
-(i)      such written consent or electronic transmission shall have been sent simultaneously to all
-Directors then in office for their consideration;
+(i) such written consent or electronic transmission shall have been sent
+simultaneously to all Directors then in office for their consideration;
 
-(ii)    prompt written notice of any action so taken (which notice may be given by electronic
-transmission) is given to those Directors who have not consented in writing or by electronic transmission;
-and
+(ii) prompt written notice of any action so taken (which notice may be given by
+electronic transmission) is given to those Directors who have not consented in writing or by
+electronic transmission; and
 
-(iii)    two or more such Directors have not objected to the taking of any such action by written notice
-delivered to the $FOUNDATION within ten business days following the date that written notice of the
-Directors action is mailed or otherwise delivered to such Directors.
-
+(iii) two or more such Directors have not objected to the taking of any such
+action by written notice delivered to the $FOUNDATION within ten business days following the
+date that written notice of the Directors action is mailed or otherwise delivered to such Directors.
 Such filing shall be in paper form if the minutes are maintained in paper form and shall be in electronic
 form if the minutes are maintained in electronic form.
 
-(b)      Notwithstanding the foregoing, the ability of two or more non-consenting Directors to prevent the
-taking of an action by written consent under clause 4.11(a)(iii) above shall not prevent any such action
-from being taken at a later date at an actual meeting of the Board.
+(b) Notwithstanding the foregoing, the ability of two or more non-consenting
+Directors to prevent the taking of an action by written consent under clause 4.11(a)(iii) above
+shall not prevent any such action from being taken at a later date at an actual meeting of the
+Board.
 
-(c)       Unless otherwise restricted by the Certificate of Incorporation or these By-Laws, any action
-required or permitted to be taken at any meeting of any Board Committee may be taken in the manner set
-forth in the preceding clauses 4.11(a) and (b).
+(c) Unless otherwise restricted by the Certificate of Incorporation or these By-Laws, any
+action required or permitted to be taken at any meeting of any Board Committee may be taken in
+the manner set forth in the preceding clauses 4.11(a) and (b).
 
 ### Section 4.12 Telephonic Meetings
-
 Unless otherwise restricted by the Certificate of Incorporation or these By-laws, members of the Board or
 of any Board Committee may participate in a meeting of the Board or of any Board Committee, as the case
 may be, by means of conference telephone, video conference equipment, or other communications
@@ -581,21 +585,20 @@ equipment by means of which all persons participating in the meeting can hear ea
 participation in a meeting shall constitute presence in person at the meeting.
 
 ### Section 4.13 Inspection Rights
-
-Every Director shall have the absolute right at any time to inspect, copy and make extracts of, in person or
-by agent or attorney, all books, records and documents of every kind, and to inspect the physical properties
-of the $FOUNDATION.
+Every Director shall have the absolute right at any time to inspect, copy and make
+extracts of, in person or by agent or attorney, all books, records and documents of every kind,
+and to inspect the physical properties of the $FOUNDATION.
 
 ### Section 4.14 Fees and Compensation
 
-Directors shall not receive any stated salary or reimbursements for their services as Directors; provided
-that, by resolution of a majority of the Board, the $FOUNDATION may reimburse Directors for expenses
-incurred while acting on behalf of the $FOUNDATION and/or expenses incurred in attending meetings of the
-Board, in such amounts as the Board may determine to be appropriate. Nothing herein contained shall be
-construed to preclude any Director from serving the $FOUNDATION in any other capacity as an Officer,
-agent, employee or otherwise, and receiving compensation therefor. The Directors may also approve
-reimbursement of expenses for members of Board Committees in connection with their service on such
-Board Committees.
+Directors shall not receive any stated salary or reimbursements for their services as
+Directors; provided that, by resolution of a majority of the Board, the $FOUNDATION may reimburse
+Directors for expenses incurred while acting on behalf of the $FOUNDATION and/or expenses
+incurred in attending meetings of the Board, in such amounts as the Board may determine to be
+appropriate. Nothing herein contained shall be construed to preclude any Director from serving
+the $FOUNDATION in any other capacity as an Officer, agent, employee or otherwise, and receiving
+compensation therefor. The Directors may also approve reimbursement of expenses for members
+of Board Committees in connection with their service on such Board Committees.
 
 
 
