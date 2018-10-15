@@ -7,7 +7,7 @@ Changelog:
 * Change smart quotes and apostrophes to ASCII
 * Change JS Foundation to $FOUNDATION
 
-BY-LAWS OF $FOUNDATION
+# BY-LAWS OF $FOUNDATION
 
 ## ARTICLE I - NAME, PURPOSE AND OFFICES
 
