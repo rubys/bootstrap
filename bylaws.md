@@ -3,6 +3,7 @@ Changelog:
 * Downloaded from [https://github.com/nodejs/board/blob/master/by-laws.md](https://raw.githubusercontent.com/nodejs/board/master/by-laws.md)
 * Replaced "NODE.JS Foundation" and "Foundation" with $FOUNDATION
 * Change apostrophes to ASCII
+* Renumber section 4.12 and 4.13 to 4.13 and 4.14
 
 # BY-LAWS OF $FOUNDATION
 
@@ -606,8 +607,9 @@ electronic transmission) is given to those Directors who have not consented in w
 electronic transmission; and
   - iii) two (2) or more such Directors have not objected to the taking of any such
 action by written notice delivered to the $FOUNDATION within ten (10) business days following the
-date that written notice of the Directors action is mailed or otherwise delivered to such Directors. Such filing shall be in paper form if the minutes are maintained in paper form and shall be in
-electronic form if the minutes are maintained in electronic form.
+date that written notice of the Directors action is mailed or otherwise delivered to such Directors.
+Such filing shall be in paper form if the minutes are maintained in paper form and shall be in electronic
+form if the minutes are maintained in electronic form.
 - b) Notwithstanding the foregoing, the ability of two (2) or more non-consenting
 Directors to prevent the taking of an action by written consent under clause 4.11(a)(iii) above
 shall not prevent any such action from being taken at a later date at an actual meeting of the
@@ -616,12 +618,12 @@ Board.
 action required or permitted to be taken at any meeting of any Board Committee may be taken in
 the manner set forth in the preceding clauses 4.11(a) and (b).
 
-### Section 4.12 Inspection Rights
+### Section 4.13 Inspection Rights
 Every Director shall have the absolute right at any time to inspect, copy and make
 extracts of, in person or by agent or attorney, all books, records and documents of every kind,
 and to inspect the physical properties of the $FOUNDATION.
 
-### Section 4.13 Fees and Compensation
+### Section 4.14 Fees and Compensation
 Directors shall not receive any stated salary or compensation for their services as
 Directors; provided that, by resolution of a majority of the Board, the $FOUNDATION may reimburse
 Directors for expenses incurred while acting on behalf of the $FOUNDATION and/or expenses
