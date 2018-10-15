@@ -6,32 +6,36 @@ Changelog:
 * Remove page breaks
 * Change smart quotes and apostrophes to ASCII
 * Change JS Foundation to $FOUNDATION
+* Renumbering of sections 2.7 and above to 2.8 and above to align with the
+  Node.js Foundation bylaws.
+* Whitespace **only** changes as required to enable line oriented diff tools
+  to determine the differences between the two documents.  No other
+  punctuation or capitalization changes were made during this process.
+
 
 # BY-LAWS OF $FOUNDATION
 
 ## ARTICLE I - NAME, PURPOSE AND OFFICES
 
 ### Section 1.1 Name
-
-The name of the corporation is "$FOUNDATION" and the corporation is referred to in these By-laws as
-the "$FOUNDATION"
+The name of the corporation is "$FOUNDATION" and the corporation is referred to
+in these By-laws as the "$FOUNDATION"
 
 ### Section 1.2 Principal Office
-
 The principal office of the $FOUNDATION shall be located at 1 Letterman Drive, Suite D4700, San
-Francisco, CA 94129. The Board of Directors of the $FOUNDATION (the "Board") is hereby granted full
-power and authority to change its principal office from one location to another both within and without said
-state.
+Francisco, CA 94129. The Board of Directors of the $FOUNDATION (the
+ "Board") is hereby granted full power and authority to change its principal office
+from one location to another both within and without said state.
 
 ### Section 1.3 Other Offices
-
-Branch or subordinate offices may at any time be established by the Board at any place or places.
+Branch or subordinate offices may at any time be established by the Board at any place or
+places.
 
 ### Section 1.4 Purpose
-
-(a)       The nature of the business or purposes to be conducted or promoted by the $FOUNDATION is to
-engage in any lawful act or activity for which corporations that are organized not for profit may be
-organized under the General Corporation Law of Delaware. The primary purpose of the $FOUNDATION
+(a) The nature of the business or purposes to be conducted or promoted by the $FOUNDATION is
+to engage in any lawful act or activity for which corporations that are organized not for profit
+may be organized under the General Corporation Law of Delaware. The primary purpose
+of the $FOUNDATION
 (collectively, "the Purpose") is to: (i) drive widespread adoption and continued development of key
 JavaScript solutions and related technologies; (ii) facilitate collaboration within the JavaScript development
 community; (iii) create a center of gravity for open source projects throughout the end-to-end JavaScript
@@ -39,13 +43,13 @@ ecosystem guiding them toward open governance and diverse collaborator bases; (i
 to support hosted open source projects (the "Projects"); (v) enable, through advancement of the $FOUNDATION's projects and strategic partnerships, an open and accessible web; and (vi) undertake such other
 activities as may from time to time be appropriate to further the purposes and achieve the goals set forth
 above.
-
-(b)       The $FOUNDATION will promote the Projects. Subject to Section 13.3, Members are expected to
+(b) The $FOUNDATION will promote the Projects. Subject to Section 13.3, Members are expected to
 support the design, development, or application of hardware or software products that will implement one
 or more Projects. In furtherance of these efforts, the $FOUNDATION shall seek to solicit the participation of
 all interested parties on a fair, equitable and open basis in the Projects.
-(c)       In support of such purpose, the $FOUNDATION may engage in some or all of the following
-activities: (i) drive the development of, disseminate, support and maintain the Projects; (ii) create and own
+(c) In support of such purpose, the $FOUNDATION may engage in some or all of the
+following activities: (i) drive the development of, disseminate, support and maintain
+the Projects; (ii) create and own
 distinctive trademarks, service marks and/or certification marks; (iii) administer or subcontract a branding
 program; (iv) create various printed and/or electronic materials for distribution to members and non-
 members; (v) maintain its own website; (vi) coordinate the promotion of the Projects among members and
@@ -54,20 +58,15 @@ tangible materials); and (vii) undertake those other activities as the Board may
 consistent with and in furtherance of the $FOUNDATION's purpose.
 
 ### Section 1.5 Nonprofit Status
-
-(a)      The $FOUNDATION is organized and shall be operated as a non-stock, not for profit membership
-corporation organized under the General Corporation Law of the State of Delaware.
-
-(b)       The $FOUNDATION has sought and received exemption from Federal taxation pursuant to Section
+(a) The $FOUNDATION is organized and shall be operated as a non-stock, not for profit
+ membership corporation organized under the General Corporation Law of the State of Delaware.
+(b) The $FOUNDATION has sought and received exemption from Federal taxation pursuant to Section
 501(a) of the Internal Revenue Code of 1986, as amended (hereinafter, the "Code"). Until such time, if
 ever, as such exemption is denied or lost, the $FOUNDATION shall not knowingly engage directly or
 indirectly in any activity that it believes would be likely to invalidate its status as an organization exempt
 from federal income taxation under Section 501(a) of the Code as an organization described in Section
 501(c) of the Code. All references to the Code contained herein are deemed to include corresponding
 provisions of any future United States Internal Revenue Law.
-
-
-
 
 ## ARTICLE II - MEMBERS
 
@@ -76,7 +75,7 @@ provisions of any future United States Internal Revenue Law.
 The $FOUNDATION shall have four classes of membership: (i) Platinum Members, (ii) Gold Members, (iii)
 Silver Members, and (iv) Associate Members. Additional classes of voting and non-voting members may
 be created in the future, and the rights of existing classes of members may be amended, in each case
-pursuant to Section 2.9 of these By-laws. All memberships in the $FOUNDATION are collectively referred to
+pursuant to Section 2.10 of these By-laws. All memberships in the $FOUNDATION are collectively referred to
 in these By-laws as "Memberships", and a person or entity holding Membership is referred to in these By-
 laws as a "Member". Any present and future classes of members that are entitled to voting rights shall be
 collectively referred to as "Voting Members."
@@ -124,7 +123,7 @@ Each Platinum Member, while in good standing, shall be entitled to:
 
 (e) in addition to the rights enumerated in this Section 2.3, to all other rights enumerated or referred to in
     Sections 2.5(b) – (e) below, and such other rights as may be amended or created by the Board pursuant
-    to its authority under Section 2.9 and Article XIV.
+    to its authority under Section 2.10 and Article XIV.
 
 ### Section 2.4 Privileges of Gold Membership
 
@@ -135,7 +134,7 @@ Each Gold Member, while in good standing, shall be entitled to:
 
 (b) in addition to the rights enumerated in this Section 2.4, to all other rights enumerated or referred to in
     Sections 2.5(b) – (e) below, and such other rights as may be amended or created by the Board pursuant
-    to its authority under Section 2.9 and Article XIV.
+    to its authority under Section 2.10 and Article XIV.
 
 ### Section 2.5 Privileges of Silver Membership
 
@@ -153,7 +152,7 @@ Each Silver Member, while in good standing, shall be entitled to:
     trademarks as may from time to time be in force; and
 
 (e) such other benefits, rights and privileges applicable to such Member's Membership class as the Board
-    may designate from time to time by vote pursuant to Section 2.9 and Article XIV below or under the
+    may designate from time to time by vote pursuant to Section 2.10 and Article XIV below or under the
     General Corporation Law of Delaware.
 
 ### Section 2.6 Privileges of Associate Membership
@@ -165,19 +164,19 @@ Each Associate Member, while in good standing, shall be entitled to:
 
 (b) such other rights as the Board of Directors may from time to time approve.
 
-### Section 2.7 Participation
+### Section 2.8 Participation
 
 Participation in Projects sponsored by the $FOUNDATION shall not be limited to Members, but may be
 subject to such operating procedures and terms of participation and other rules as may from time to time be
 approved by the Board.
 
-### Section 2.8 Subsidiaries, Etc.
+### Section 2.9 Subsidiaries, Etc.
 
 (a)     Only the legal entity which has been accepted as a Member of the $FOUNDATION and its
 Subsidiaries (as defined below) shall be entitled to enjoy the rights and privileges of such Membership;
 provided, however, that such Member and its Subsidiaries shall be treated together as a single Member.
 For purposes of this Section, the term "Subsidiaries" shall mean all Related Companies (as defined below)
-that a Member controls or is affiliated with (as defined in Section 2.8(b) below).
+that a Member controls or is affiliated with (as defined in Section 2.9(b) below).
 
 (b)      Only one Member which is part of a group of Related Companies shall be entitled to have a
 representative on the Board at one time. For purposes of these By-laws, the term "Related Company" shall
@@ -201,7 +200,7 @@ business and/or assets, whether by merger, sale or otherwise; provided that the 
 bound by these By-laws, the Certificate of Incorporation and such policies and procedures as the Board
 may from time to time adopt.
 
-### Section 2.9 Additional Classes of Members
+### Section 2.10 Additional Classes of Members
 
 The conditions, privileges, powers, and voting rights (if any) of any class of Members may be changed, and
 one or more additional classes of Membership may be created, and the conditions, voting rights (if any),
@@ -209,7 +208,7 @@ one or more additional classes of Membership may be created, and the conditions,
 powers and privileges of each such class may be prescribed, by amendment to these By-laws in accordance
 with Article XIV.
 
-### Section 2.10 Termination or Suspension of Member by $FOUNDATION
+### Section 2.11 Termination or Suspension of Member by $FOUNDATION
 
 Any Member may be suspended from Membership or have its Membership terminated by the Board for
 failure to satisfy its Membership Obligations or for engaging in any conduct, either within or without the $FOUNDATION, that is contrary to the Purposes of the $FOUNDATION. Financial Obligations already paid shall
@@ -217,7 +216,7 @@ not be refundable upon any such termination or suspension, and all Financial Obl
 which may be accrued and unpaid as of the date of such termination shall remain due and
 payable. Terminations or suspensions of Membership for failure to satisfy Financial Obligations within 60
 days of invoice may be imposed with notice and without right of formal appeal under such procedures as
-the Board may from time to time approve. Except as provided in the last paragraph of this Section 2.10, no
+the Board may from time to time approve. Except as provided in the last paragraph of this Section 2.11, no
 termination or suspension of Membership for any other purpose shall be effective unless:
 
 (a) The Member is given notice of the proposed termination or suspension of Membership and of the
@@ -241,18 +240,18 @@ Notwithstanding the foregoing, in the event that the Board believes in good fait
 in willful misconduct or otherwise acting to the material detriment of the best interests of the $FOUNDATION
 and its Members, the Board, acting by Super Majority Vote, may suspend such Member's Membership
 immediately, provided that such Member is otherwise afforded the protections provided for in subsections
-(a), (b) and (d) of this Section 2.10.
+(a), (b) and (d) of this Section 2.11.
 
-### Section 2.11 Resignation by Member
+### Section 2.12 Resignation by Member
 
 A Member may resign as a Member at any time. Any Financial Obligations already paid by such Member
 shall not be refundable upon any resignation, including any termination of Membership pursuant to Section
-2.10 above, and all such Financial Obligations of such Member which may be accrued and unpaid as of
+2.11 above, and all such Financial Obligations of such Member which may be accrued and unpaid as of
 such date shall remain due and payable. If a Platinum Member gives written notice of non-renewal or
 resigns as a Member, or is terminated, the $FOUNDATION shall promptly give notice of such event to all
 Members.
 
-### Section 2.12 Levy of Dues, Assessments or Fees
+### Section 2.13 Levy of Dues, Assessments or Fees
 
 The $FOUNDATION may levy dues, assessments or fees upon its Members in such amounts as may be
 approved from time to time by the Board, but shall provide at least thirty (30) days' notice of such levy.
@@ -266,19 +265,19 @@ Certificate of Incorporation or By-Laws of the $FOUNDATION authorizing such dues
 shall, of itself, create such liability. In no event shall the failure of a Member to pay any dues or
 assessments give rise to any claim in favor of the $FOUNDATION for indirect or consequential damages.
 
-### Section 2.13 Use of Names
+### Section 2.14 Use of Names
 
 Unless otherwise provided herein, neither the $FOUNDATION nor any Member shall use the name, logo,
 trademark, service mark or other distinctive mark of another Member in any form of publicity without the
 written permission of the other Member, provided that the $FOUNDATION and any Member may each
 disclose and publicize such Member's Membership in the $FOUNDATION.
 
-### Section 2.14 Rights in Intellectual Property
+### Section 2.15 Rights in Intellectual Property
 
 The Board shall give all Members at least thirty (30) days' notice prior to the adoption of, or any material
 change to, any intellectual property rights policy or any other material policy or procedure governing
 intellectual property, such that any Member may resign its membership prior to the effective date thereof in
-accordance with Section 2.11 above. For the avoidance of doubt, no such adoption or material change shall
+accordance with Section 2.12 above. For the avoidance of doubt, no such adoption or material change shall
 be effective until at least thirty (30) days have passed since the provision of notice. A material change shall
 be deemed to include, without limitation, the imposition of a patent license obligation on Members, and a
 change in the license applicable to Members' contributions.
