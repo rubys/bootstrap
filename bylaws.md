@@ -2,6 +2,7 @@ Changelog:
 
 * Downloaded from [https://github.com/nodejs/board/blob/master/by-laws.md](https://raw.githubusercontent.com/nodejs/board/master/by-laws.md)
 * Replaced "NODE.JS Foundation" and "Foundation" with $FOUNDATION
+* Change apostrophes to ASCII
 
 # BY-LAWS OF $FOUNDATION
 
@@ -43,28 +44,31 @@ may from time to time approve consistent with and in furtherance of the Purpose.
 membership corporation organized under the General Corporation Law of Delaware.
 - b) The Board may, in its sole discretion, elect to seek exemption from Federal taxation
 for the $FOUNDATION pursuant to Section 501(a) of the Internal Revenue Code of 1986, as amended
-- hereinafter, the "Code"). In the event that such exemption is sought and until such time, if ever,
-as such exemption is denied or lost, the $FOUNDATION shall not knowingly engage directly or
-indirectly in any activity that it believes would be likely to invalidate its status as an organization
-exempt from federal income taxation under Section 501(a) of the Code as an organization
-described in Section 501(c)(6) of the Code. All references to the Code contained herein are
-deemed to include corresponding provisions of any future United States Internal Revenue Law.
+- hereinafter, the "Code"). In the event that such exemption is sought and until such time, if
+ever, as such exemption is denied or lost, the $FOUNDATION shall not knowingly engage directly or
+indirectly in any activity that it believes would be likely to invalidate its status as an organization exempt
+from federal income taxation under Section 501(a) of the Code as an organization described in Section
+501(c)(6) of the Code. All references to the Code contained herein are deemed to include corresponding
+provisions of any future United States Internal Revenue Law.
 
 ## ARTICLE II - MEMBERS
 
 ### Section 2.1 Classes of Membership
-The $FOUNDATION shall initially have five classes of membership: Platinum Members, Gold
-Members, Silver Members, Associated Entity Members and Individual Members. Additional
-classes of voting and non-voting members may be created in the future, and the rights of existing
-classes of members may be amended, in each case pursuant to Section 2.10 of these By-laws.
-Platinum Members, Gold Members, Silver Members and any future classes of members that are
-entitled to general voting rights shall be collectively referred to as "Voting Members."
-Associated Entity Members and Individual Members shall be non-voting Members. All voting
-and non-voting memberships in the $FOUNDATION are collectively referred to in these By-laws as
-"Memberships", and a person or entity holding Membership is referred to in these By-laws as a
-"Member".
+
+The $FOUNDATION shall initially have five classes of membership: Platinum
+Members, Gold Members, Silver Members, Associated Entity Members and
+Individual Members. Additional classes of voting and non-voting members may 
+be created in the future, and the rights of existing classes of members may be amended, in each case
+pursuant to Section 2.10 of these By-laws.  Platinum Members, Gold Members,
+Silver Members and any future classes of members that are entitled to general
+voting rights shall be collectively referred to as "Voting Members."
+Associated Entity Members and Individual Members shall be non-voting Members.
+All voting and non-voting memberships in the $FOUNDATION are collectively
+referred to in these By-laws as "Memberships", and a person or entity holding
+Membership is referred to in these By-laws as a "Member".
 
 ### Section 2.2 Conditions of Membership
+
 - a) Any association, governmental agency, academic entity or non-profit entity applying
 for membership shall be admitted to Associated Entity Membership upon at least a majority
 approval of the Board. Any association, partnership, organization, governmental agency,
@@ -78,26 +82,29 @@ of dedicated developers and maintainers to projects), as may from time to time b
 or these By-laws, payment of such application fees, assessments, initiation fees, annual dues or
 other fees for such class of Membership as may from time to time be established by the Board, if
 any (collectively, "Fees"). A Member shall remain in good standing as a Member provided such
-Member is in compliance with the terms and conditions of the $FOUNDATION’s Certificate of
-Incorporation, By-laws, Membership Application and such rules and policies (and the terms of
-any agreements required thereby) as the Board and/or any committees thereof (each a "Board
-Committee") may from time to time adopt, and is current in its fulfillment of all in-kind
-commitments and payment of all Fees and penalties for late payment as may be required or
-determined by the Board (such Fees and penalties are collectively referred to in the By-laws as
-"Financial Obligations", and all of the foregoing good standing requirements are collectively
-referred to in these By-laws as "Membership Obligations"). No person or entity may be accepted
-for Membership if that person or entity has pre-existing, unpaid Financial Obligations to the
-$FOUNDATION.
-- b) The initial term of Membership for all Platinum Members shall be three years after
-the start date of such Platinum Member’s Membership plus the period through the end of the
-calendar year (December 31) of the third year of Membership; and the initial term of
-Membership for all other Members shall be one year after the start of such Member’s
-Membership plus the period through the end of the calendar year (December 31) of the first year
-of Membership. Thereafter, a Member’s Membership and its Membership Obligations shall
-automatically renew on January 1 for one year periods, regardless of the class of Membership,
-unless such Member gives written notice of non-renewal to the $FOUNDATION not less than sixty (60) days prior to the end of its current Membership year, provided that the $FOUNDATION has given
-all Members notice of upcoming renewal not less than one hundred and twenty (120) and again
-ninety (90) days prior to December 31 in such year.
+Member is in compliance with the terms and conditions of the $FOUNDATION's Certificate of Incorporation,
+By-laws, Membership Application and such rules and policies (and the terms of any agreements required
+thereby) as the Board and/or any committees thereof (each a "Board Committee") may from time to time
+adopt, and is current in its fulfillment of all in-kind commitments and payment of all Fees and penalties for
+late payment as may be required or determined by the Board (such Fees and penalties are collectively
+referred to in the By-laws as "Financial Obligations", and all of the foregoing good standing requirements
+are collectively
+referred to in these By-laws as "Membership Obligations").
+No person or entity may be accepted for Membership if that person or entity
+has pre-existing, unpaid Financial Obligations to the $FOUNDATION.
+- b) The initial term of Membership for all Platinum Members shall be three
+years after the start date of such Platinum Member's Membership plus the
+period through the end of the calendar year (December 31) of the third year of
+Membership; and the initial term of Membership for all other Members shall be
+one year after the start of such Member's Membership plus the period through
+the end of the calendar year (December 31) of the first year of Membership.
+Thereafter, a Member's Membership and its Membership Obligations shall
+automatically renew on January 1 for one year periods, regardless of the class
+of Membership, unless such Member gives written notice of non-renewal to the
+$FOUNDATION not less than sixty (60) days prior to the end of its current
+Membership year, provided that the $FOUNDATION has given all Members notice of
+upcoming renewal not less than one hundred and twenty (120) and again ninety
+(90) days prior to December 31 in such year.
 
 ### Section 2.3 Privileges of Platinum Membership
 Each Platinum Member, while in good standing, shall, in addition to all other rights of a
@@ -150,15 +157,20 @@ described in Section 4.3(d) of these By-laws and subject to Section 2.9 below; a
 ### Section 2.8 Participation
 Participation in the Technical Steering Committee (as described in Section 5.4(b) below)
 and development projects sponsored by the $FOUNDATION shall not be limited to Members, but may
-be subject to such operating procedures and terms of participation and other rules as may from
-time to time be approved by the Board.
+be
+subject to such operating procedures and terms of participation and other rules as may from time to time be
+approved by the Board.
 
 ### Section 2.9 Subsidiaries, Etc.
-- a) Only the legal entity that has been accepted as a Member of the $FOUNDATION and
-its Subsidiaries (as defined below) shall be entitled to enjoy the rights and privileges of such
-Member’s Membership; provided, however, that such Member and its Subsidiaries shall be
-treated together as a single Member except as otherwise provided in Section 2.9(b) below. For
-purposes of this Section, the term "Subsidiaries" shall mean the subset of all Related Companies (as defined in Section 2.9(c) below) that a Member controls.
+
+- a) Only the legal entity that has been accepted as a Member of the $FOUNDATION and its
+Subsidiaries (as defined below) shall be entitled to enjoy the rights and privileges of such Member's Membership;
+provided, however, that such Member and its Subsidiaries shall be treated together as a single Member
+except as otherwise provided in Section 2.9(b) below.
+For purposes of this Section, the term "Subsidiaries" shall mean the subset of
+all Related Companies (as defined in Section 2.9(c) below) that a Member
+controls.
+
 - b) Only one Member which is part of a group of Related Companies (as defined
 below) shall be entitled at one time to have a representative on the Board or vote on matters
 voted on by the Members (except as otherwise provided below); provided, however, that the (i)
@@ -174,25 +186,29 @@ Member or Silver Member and be entitled to vote separately in elections of Gold 
 Silver Directors in accordance with Sections 4.3(b) and 4.3(c) below, provided that such Related
 Company shall not be entitled to nominate a representative to run for election by its class of
 Members.
+
 - c) For purposes of these By-laws, the term "Related Company" shall mean any
 entity which controls or is controlled by a Member, or which, together with a Member, is under
 the common control of a third party, in each case where such control results from ownership,
 either directly or indirectly, of more than fifty percent (50%) of the voting securities or
 membership interests of the entity in question; and "Related Companies" are entities that are
 each a Related Company of a Member.
+
 - d) Except with respect to Related Companies, if a Member is a corporation, limited
 liability company, foundation, consortium, membership organization, user group or other entity
 that has stockholders, members or sponsors, then the rights and privileges granted to such
 Member shall extend only to the employee-representatives of such Member, and not to its
 stockholders, members, sponsors, etc., unless otherwise approved by the Board in a specific case
 from time to time.
+
 - e) Memberships shall be non-transferable, non-salable and non-assignable, except
-that any Member may transfer its current Membership benefits and obligations to: (i) any Related
-Company if the transferee qualifies for Membership in the transferring Member’s class and the
+that any Member
+may transfer its current Membership benefits and obligations to: (i) any Related
+Company if the transferee qualifies for Membership in the transferring Member's class and the
 Board in its discretion permits such transfer, provided, however, that the transferor and transferee
 shall be and remain jointly and severally liable for any unpaid membership dues, fees, or
 assessments of the transferring member; and (ii) a successor of all or substantially all of such
-Member’s securities, business and/or assets, whether by merger, sale, operation of law or
+Member's securities, business and/or assets, whether by merger, sale, operation of law or
 otherwise (such transferee (i) and/or (ii) shall be referred to as "Successor"). The Successor shall
 be bound by these By-laws, the Certificate of Incorporation, any membership agreement, and
 such policies and procedures as the Board may from time to time adopt, and the Successor shall
@@ -213,17 +229,19 @@ and activities of the acquired Member shall continue and be binding upon such Su
 shall inure to the benefit of the $FOUNDATION.
 
 ### Section 2.10 Additional Classes of Members
-The conditions, privileges, powers, and voting rights (if any) of any class of Members
-may be changed, and one or more additional classes of Membership may be created, and the
-conditions, voting rights (if any), powers and privileges of each such class may be prescribed, by
-amendment to these By-laws in accordance with Article XIV.
+
+The conditions, privileges, powers, and voting rights (if any) of any class of Members may be changed, and
+one or more additional classes of Membership may be created, and the conditions, voting rights (if any),
+powers and privileges of each such class may be prescribed, by amendment to these By-laws in accordance
+with Article XIV.
 
 ### Section 2.11 Termination or Suspension of Membership
-Any Member may be suspended from Membership or have its Membership terminated by
-the Board for material failure to satisfy its Membership Obligations or for engaging within the
+
+Any Member may be suspended from Membership or have its Membership terminated by the Board for
+material failure to satisfy its Membership Obligations or for engaging within the
 $FOUNDATION, in any (1) willful misconduct or otherwise acting to the material detriment of the
 best interests of the $FOUNDATION and its Members, or (2) conduct that is contrary to the Purpose of
-the $FOUNDATION or to the advancement of the $FOUNDATION’s business or industry goals (in either
+the $FOUNDATION or to the advancement of the $FOUNDATION's business or industry goals (in either
 case, other than conduct or actions taken in good faith reliance on Section 13 of these By-laws),
 as reasonably determined by the Board in good faith. Financial Obligations already paid shall not
 be refundable upon any such termination or suspension, and all Financial Obligations of such
@@ -231,68 +249,75 @@ Member which may be accrued and unpaid as of the date of such termination shall 
 and payable. Terminations or suspensions of Membership for failure to satisfy Financial
 Obligations within sixty (60) days of the date of the applicable invoice may be imposed with
 notice and without right of formal appeal under such procedures as the Board may from time to
-time approve. Except as provided in the last paragraph of this Section 2.11, no termination or
-suspension of Membership for any other purpose shall be effective unless:
-- a) The Member is given notice of the proposed termination or suspension of
-Membership and of the reasons therefor;
-- b) Such notice is delivered personally or by certified mail, return receipt requested, or by
-a national or international overnight courier service, sent to the last address of the Member
-shown on the $FOUNDATION’s records;
+time approve. Except as provided in the last paragraph of this Section 2.11, no
+termination or suspension of Membership for any other purpose shall be effective unless:
+
+- a) The Member is given notice of the proposed termination or suspension of Membership and of the
+    reasons therefor;
+
+- b) Such notice is delivered personally or by certified mail, return receipt requested, or by a national or
+    international overnight courier service, sent to the last address of the Member shown on the $FOUNDATION's records;
+
 - c) Such notice is given at least thirty (30) days prior to the effective date stated in the
 notice of the proposed termination or suspension of Membership;
-- d) Such notice sets forth a procedure determined by the Board (or other body authorized
-by the Board) to decide whether or not the proposed termination or suspension shall take place,
-whereby the Member is given the opportunity to be heard by such body, either orally (and
-represented by counsel if the Member so desires, at its sole cost and expense) or in writing, not
-less than five (5) days before the effective date of the proposed termination or suspension; and
+
+- d) Such notice sets forth a procedure determined by the Board (or other body authorized by the Board) to
+    decide whether or not the proposed termination or suspension shall take place, whereby the Member is
+    given the opportunity to be heard by such body, either orally (and represented by counsel if the
+    Member so desires, at its sole cost and expense) or in writing, not less than five (5) days before the
+    effective date of the proposed termination or suspension; and
+
 - e) Such termination or suspension of Membership is approved by Super Majority Vote (as defined in Section 4.10(b) below) of the Board.
-Notwithstanding the foregoing, in the event that the Board believes in good faith that a
-Member is engaging within the $FOUNDATION, in any (1) willful misconduct or otherwise acting to
+Notwithstanding the foregoing, in the event that the Board believes in good faith that a Member is engaging
+within the $FOUNDATION, in any (1) willful misconduct or otherwise acting to
 the material detriment of the best interests of the $FOUNDATION and its Members, or (2) conduct
-that is contrary to the Purpose of the $FOUNDATION or to the advancement of the $FOUNDATION’s
+that is contrary to the Purpose of the $FOUNDATION or to the advancement of the $FOUNDATION's
 business or industry goals (in either case, other than conduct or actions taken in good faith
 reliance on Section 13 of these By-laws), the Board, acting by Super Majority Vote, may
-suspend such Member’s Membership immediately, provided that such Member is otherwise
-afforded the protections provided for in subsections (a), (b) and (d) of this Section 2.11.
+suspend such Member's Membership
+immediately, provided that such Member is otherwise afforded the protections provided for in subsections
+(a), (b) and (d) of this Section 2.11.
 
 ### Section 2.12 Resignation by Member
-A Member may resign as a Member at any time. Any Financial Obligations already paid
-by such Member shall not be refundable upon any resignation, including any resignation
+
+A Member may resign as a Member at any time. Any Financial Obligations already paid by such Member
+shall not be refundable upon any resignation, including any resignation
 pursuant to Section 2.13 or 2.15 below, and all such Financial Obligations of such Member
 which may be accrued and unpaid as of such date shall remain due and payable.
 
 ### Section 2.13 Levy of Dues, Assessments or Fees
-The $FOUNDATION may levy dues, assessments or fees upon its Members in such amounts as
-may be approved from time to time by the Board, but shall provide at least thirty (30) days’
-notice of such levy. For the avoidance of doubt, no such levy shall be effective until at least
-thirty (30) days have passed since the provision of notice. A Member upon learning of any
-increase in dues, or of any levy of any assessments or fees, may avoid liability therefor by
-resigning from Membership prior to the date such dues, assessments or fees are due and payable,
-except where the Member is, by contract with the $FOUNDATION or otherwise, independently and
-explicitly liable for such dues, assessments or fees. No provision of the Certificate of
-Incorporation or By-Laws of the $FOUNDATION authorizing such dues, assessments or fees shall, of
-itself, create such liability. In no event shall the failure of a Member to pay any dues or
-assessments give rise to any claim in favor of the $FOUNDATION for indirect or consequential
-damages.
+
+The $FOUNDATION may levy dues, assessments or fees upon its Members in such amounts as may be
+approved from time to time by the Board, but shall provide at least thirty (30) days' notice of such levy.
+For the avoidance of doubt, no such levy shall be effective until at least thirty (30) days have passed since
+the provision of notice. A Member upon learning of any increase in dues, or of any levy of any
+assessments or fees, may avoid liability therefor by resigning from Membership prior to the date such dues,
+assessments or fees are due and payable, except where the Member is, by contract with the $FOUNDATION
+or otherwise, independently and explicitly liable for such dues, assessments or fees. No provision of the
+Certificate of Incorporation or By-Laws of the $FOUNDATION authorizing such dues, assessments or fees
+shall, of itself, create such liability. In no event shall the failure of a Member to pay any dues or
+assessments give rise to any claim in favor of the $FOUNDATION for indirect or consequential damages.
 
 ### Section 2.14 Use of Names
-Unless otherwise provided herein, neither the $FOUNDATION nor any Member shall use the
-name, logo, trademark, service mark or other distinctive mark of another Member in any form of
-publicity without the written permission of the other member, provided that the $FOUNDATION and
-any Member may each disclose and publicize such Member’s Membership in the $FOUNDATION.
+
+Unless otherwise provided herein, neither the $FOUNDATION nor any Member shall use the name, logo,
+trademark, service mark or other distinctive mark of another Member in any form of publicity without the
+written permission of the other member, provided that the $FOUNDATION and any Member may each
+disclose and publicize such Member's Membership in the $FOUNDATION.
 
 ### Section 2.15 Rights in Intellectual Property
+
 The Members and Board shall neither adopt, nor make any material change to, (1) any
 intellectual property rights policy of the $FOUNDATION or any other material policy or procedure of
 the $FOUNDATION governing intellectual property (individually and collectively, as the context
 requires, an "IP Policy"), or (2) any proposed or requested change to any requirement or
 obligation in the By-laws to seek or obtain the consent by a Super Majority Vote of the
 Directors, unless approved by a Super Majority Vote of the Directors and the $FOUNDATION gives
-not less than ninety (90) days’ prior written notice to all Members of the effective date of such
+not less than ninety (90) days' prior written notice to all Members of the effective date of such
 adoption or change, such that any Member may resign its Membership prior to the effective date
 thereof in accordance with Section 2.12 above. A material change shall be deemed to include,
 without limitation, the imposition of any patent license obligation or encumbrance on Members,
-a change in a contribution agreement or license applicable to Members’ contributions, the
+a change in a contribution agreement or license applicable to Members' contributions, the
 combination or formal affiliation of the $FOUNDATION with another organization, any alteration in
 the definition of "Related Company," or a change in the outbound license (currently the MIT
 license) for which the $FOUNDATION provides the Platform under an open source license (the "Open
@@ -338,8 +363,8 @@ complete reproduction of the entire original writing.
 Subject to the provisions of Section 4.3, the Board shall establish reasonable nomination
 and election procedures given the nature, size, and operations of the $FOUNDATION, including a
 reasonable means for Members of appropriate classes to nominate a person for election as a
-Director, a reasonable opportunity for a nominee to communicate to the Members the nominee’s
-qualifications and the reasons for the nominee’s candidacy (if requested by such nominee), a
+Director, a reasonable opportunity for a nominee to communicate to the Members the nominee's
+qualifications and the reasons for the nominee's candidacy (if requested by such nominee), a
 reasonable opportunity for all nominees to solicit votes (if requested by any such nominee), and a
 reasonable opportunity for all Members entitled to vote thereon to choose among the nominees.
 
@@ -425,7 +450,7 @@ additional terms.
 - h) Each Director (other than the Individual Director) shall be an employee of the
 Member (or a Related Company) which nominated or appointed him or her at the time of such
 appointment or nomination. Each Director shall hold office until the earliest to occur of the
-expiration of the term for which such Director was appointed or elected and such Director’s
+expiration of the term for which such Director was appointed or elected and such Director's
 successor is appointed or elected and qualified, or until his or her earlier death, resignation,
 removal, and in the case of a Platinum, Gold or Silver Director, until the earlier of (i) expiration
 or termination of Membership of the Member that nominated or appointed such Director, (ii) the
@@ -480,12 +505,12 @@ any Director may be removed by a Super Majority Vote of the other Directors (not
 Director subject to such removal vote in determining the requisite vote) for engaging within the
 $FOUNDATION, in his or her capacity as Director, in any (1) willful misconduct or otherwise acting
 to the material detriment of the best interests of the $FOUNDATION and its Members, or (2) conduct
-that is contrary to the Purpose of the $FOUNDATION or to the advancement of the $FOUNDATION’s
+that is contrary to the Purpose of the $FOUNDATION or to the advancement of the $FOUNDATION's
 business or industry goals, as reasonably determined in good faith by such other Directors;
 provided, however, that the Member or class of Members that appointed and elected or
 nominated and elected (as the case may be) such removed Director shall be entitled to appoint
 and elect or nominate and elect (as the case may be) a replacement for such removed Director to
-serve for the balance of such removed Director’s term.
+serve for the balance of such removed Director's term.
 
 ### Section 4.6 Vacancies
 - a) Vacancies on the Board occurring as a result of the death, resignation, removal or
@@ -517,9 +542,9 @@ prompt notice of such determination.
 ### Section 4.9 Special Meetings
 Special meetings of the Board may be called by the Chairperson, Secretary or on the
 written request of two or more Directors, or by one Director in the event that there is only one
-Director in office. Two (2) business days’ notice to each Director, either personally or by
+Director in office. Two (2) business days' notice to each Director, either personally or by
 telecopy, commercial delivery service, electronic transmission, or similar means sent to his or
-her business or home address, or three (3) business days’ notice by written notice deposited in
+her business or home address, or three (3) business days' notice by written notice deposited in
 the mail, shall be given to each Director by the Secretary or by the Officer or one of the Directors
 calling the meeting. A notice or waiver of notice or any waiver by electronic transmission of a
 meeting of the Board need not specify the purposes of the meeting.
@@ -543,13 +568,13 @@ addition, with respect to the following matters:
   - ii) adopting or recommending to the Members an agreement of merger or
 consolidation;
   - iii) approving or recommending to the Members the sale, lease or exchange of
-all or substantially all of the $FOUNDATION’s property and assets;
+all or substantially all of the $FOUNDATION's property and assets;
   - iv) approving or recommending to the Members the dissolution, liquidation or
 winding up of the $FOUNDATION or a revocation of any such dissolution, liquidation or winding up;
   - v) enlarging or reducing the size of the Board;
   - vi) amending or modifying the eligibility requirements for membership on the
 Board or the classes of Members eligible to appoint and/or elect Directors;
-  - vii) terminating or suspending a Member’s Membership, pursuant to Section
+  - vii) terminating or suspending a Member's Membership, pursuant to Section
 2.11 above;
   - viii) eliminating the Platinum Member right set forth in Section 2.3(a) above;
   - ix) adopting or amending any IP Policy document, or amending or deleting
@@ -626,7 +651,7 @@ so amendable or repealable;
   - vii) amending the Certificate of Incorporation;
   - viii) adopting an agreement of merger or consolidation;
   - ix) recommending to the Members the sale, lease or exchange of all or substantially all
-of the $FOUNDATION’s property and assets;
+of the $FOUNDATION's property and assets;
   - x) recommending to the Members a dissolution of the $FOUNDATION or a revocation of a
 dissolution; and
   - xi) taking any other action for which a vote of more than a simple majority of the Board
@@ -737,7 +762,7 @@ a recording all the proceedings of the meetings of the $FOUNDATION and of the Bo
 Secretary, and each Assistant Secretary, shall have authority to affix the Corporate seal to any
 instrument requiring it and when so affixed, it may be attested by signature of the Secretary or by
 the signature of such Assistant Secretary. The Board may give general authority to any other
-Officer to affix the seal of the $FOUNDATION and to attest the affixing by such Officer’s signature.
+Officer to affix the seal of the $FOUNDATION and to attest the affixing by such Officer's signature.
 
 ### Section 6.8 Assistant Secretaries
 Any Assistant Secretary shall, in the absence of the Secretary or in the event of his or her
@@ -809,7 +834,7 @@ whether civil, criminal, administrative or investigative (other than an action b
 the $FOUNDATION) by reason of the fact that he or she is or was a Director, Officer, employee or
 agent of the $FOUNDATION, or is or was serving at the request of the $FOUNDATION as a director,
 officer, employee or agent of another corporation, partnership, joint venture, trust or other
-enterprise, against expenses (including attorneys’ fees), judgments, fines and amounts paid in
+enterprise, against expenses (including attorneys' fees), judgments, fines and amounts paid in
 settlement actually and reasonably incurred by him or her in connection with such action, suit or
 proceeding if he or she acted in good faith and in a manner he or she reasonably believed to be in
 or not opposed to the best interests of the $FOUNDATION, and, with respect to any criminal action or
@@ -826,7 +851,7 @@ threatened to be made a party to any threatened, pending or completed action or 
 right of the $FOUNDATION to procure a judgment in its favor by reason of the fact that he or she is or
 was a Director, Officer, employee or agent of the $FOUNDATION, or is or was serving at the request
 of the $FOUNDATION as a director, officer, employee or agent of another corporation, partnership,
-joint venture, trust or other enterprise against expenses (including attorneys’ fees) actually and
+joint venture, trust or other enterprise against expenses (including attorneys' fees) actually and
 reasonably incurred by him or her in connection with the defense or settlement of such action or
 suit if he or she acted in good faith and in a manner he or she reasonably believed to be in or not
 opposed to the best interests of the $FOUNDATION; provided, however, that no indemnification shall
@@ -841,7 +866,7 @@ Chancery of the State of Delaware or such other court shall deem proper.
 To the extent that any person described in Section 8.1 or 8.2 of this Article VIII has been
 successful on the merits or otherwise in defense of any action, suit or proceeding referred to in
 said Sections, or in defense of any claim, issue or matter therein, he or she shall be indemnified
-against expenses (including attorneys’ fees) actually and reasonably incurred by him or her in
+against expenses (including attorneys' fees) actually and reasonably incurred by him or her in
 connection therewith.
 
 ### Section 8.4 Specific Authorization
@@ -869,8 +894,8 @@ capacity and as to action in another capacity while holding such office.
 ### Section 8.7 Jurisdiction of Delaware Court of Chancery
 The Delaware Court of Chancery is vested with exclusive jurisdiction to hear and
 determine all actions for advancement of expenses or indemnification. The Delaware Court of
-Chancery may summarily determine the $FOUNDATION’s obligation to advance expenses (including
-attorney’s fees).
+Chancery may summarily determine the $FOUNDATION's obligation to advance expenses (including
+attorney's fees).
 
 ### Section 8.8 Insurance
 The Board may authorize the $FOUNDATION to purchase and maintain insurance on behalf of
@@ -918,7 +943,7 @@ required.
 ### Section 9.4 Record Date
 In order that the $FOUNDATION may determine the Members entitled to express consent to
 corporate action in writing without a meeting, or the Members entitled to receive payment of any
-distribution, if any, permitted by law and the $FOUNDATION’s then current federal and state tax
+distribution, if any, permitted by law and the $FOUNDATION's then current federal and state tax
 status, or allotment of any rights, or entitled to exercise any rights in respect of any change,
 conversion or exchange of Membership or for the purpose of any other lawful action, the Board
 may fix, in advance, a record date, which shall not be (i) more than sixty (60) days prior to the
