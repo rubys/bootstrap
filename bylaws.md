@@ -394,10 +394,11 @@ number of Silver Directors previously elected exceeds the number specified in th
 such event all Silver Directors previously elected may serve until the next annual election of Directors, at
 which time the required decrease in the number of Silver Directors shall take effect.
 
-(d)       Any Director nominated, appointed or elected by any class of Members, or by any Member, may,
-but shall not automatically, be re-nominated, re-appointed and/or re-elected for additional terms.
+(d) Any Director nominated, appointed or elected by any class of Members, or by any
+Member, may, but shall not automatically, be re-nominated, re-appointed and/or re-elected for
+additional terms.
 
-(e)       Each Director (other than the TAC Director) shall be an employee of the Member which
+(e) Each Director (other than the TAC Director) shall be an employee of the Member which
 nominated or appointed him or her. Each Director (other than the TAC Director) shall hold office until the
 earliest to occur of the expiration of the term for which such Director was elected and such Director's
 successor is elected and qualified, or until his or her earlier death, resignation, removal or termination of
@@ -412,7 +413,7 @@ representative serving as a Director is suspended pursuant to Section 2.10 above
 rights of such Director representative shall also be suspended until such time, if ever, as the suspension of
 such Member is lifted.
 
-(f)       Each Platinum, Gold or Silver Director (or the Member that appointed or is the employer of such
+(f) Each Platinum, Gold or Silver Director (or the Member that appointed or is the employer of such
 Director) may designate in writing (which designation may be withdrawn in writing at any time by such
 Director or Member) an individual to act as a Director in his or her stead, whether for a single meeting or as
 a standing alternate. Any such alternate Director shall also be an employee of the Member that appointed
@@ -422,18 +423,19 @@ designating Director, and (iii) otherwise exercise the duties and enjoy the priv
 Director in the absence or unavailability of the designating Director; provided, however, that no such
 alternate Director may propose a vote or vote upon any Committee of the Board. In addition, in lieu of
 making such a substitution, any Director who will be absent for any meeting may deliver a written proxy to
-
 the President, authorizing the President to either vote as instructed in such proxy, or to vote in the stead of
 such absent Director in such manner as the President may believe appropriate. Any such proxy shall be
 valid only with respect to the meeting and such specific matters (or with respect to all matters, if so desired)
 as may be stated in such proxy.
 
-(g)      The Board may approve from time to time such reasonable attendance and other requirements as it
-shall deem to be advisable to ensure that seats on the Board are held by active, contributing individuals.
-Such rules may provide that any Member which has appointed or nominated a Director, as the case may be,
-may lose its ability to appoint and/or nominate a representative to the Board in the event that such
-requirements have not been met, and/or that a Director who fails to meet such requirements shall
-automatically be deemed to have resigned from the Board, but no such rule may be imposed retroactively.
+(g) The Board may approve from time to time such reasonable attendance and other
+requirements as it shall deem to be advisable to ensure that seats on the Board are held by active,
+contributing individuals.  Such rules may provide
+that any Member which has appointed or nominated a Director, as the case may
+be, may lose its ability to appoint and/or nominate a representative to the
+Board in the event that such requirements have not been met, and/or that a
+Director who fails to meet such requirements shall automatically be deemed to
+have resigned from the Board, but no such rule may be imposed retroactively.
 
 ### Section 4.4 Enlargement or Reduction
 Subject to Section 2.9 above and Section 4.10 below, the number of Directors, the
@@ -654,16 +656,17 @@ regular minutes of its meetings and make such reports to the Board as the Board 
 
 ### Section 5.3 Meetings of Committees of the Board
 
-Except as otherwise provided in these By-laws or by resolution of the Board, each Board Committee may
-adopt its own rules governing the time and place of holding and the method of calling its meetings and the
-conduct of its proceedings and shall meet as provided by such rules, but unless otherwise provided by
-resolution of the Board or in such rules, its business shall be conducted as nearly as possible in the same
-manner as is provided in these By-laws for the conduct of the business of the Board.
+Except as otherwise provided in these By-laws or by resolution of the Board, each Board
+Committee may adopt its own rules governing the time and place of holding and the method of
+calling its meetings and the conduct of its proceedings and shall meet as provided by such rules,
+but unless otherwise provided by resolution of the Board or in such rules, its business shall be
+conducted as nearly as possible in the same manner as is provided in these By-laws for the
+conduct of the business of the Board.
 
 ### Section 5.4 Term of Office of Members of Committees of the Board
 
-Each member of a Board Committee shall serve for such term as shall be established at the time of his or
-her election.
+Each member of a Board Committee shall serve for such term as shall be established at
+the time of his or her election.
 
 ### Section 5.5 Committees of the Members
 
@@ -718,48 +721,49 @@ be a Director, and the $FOUNDATION may also retain an Executive Director, who is
 Director. The $FOUNDATION may also have, at the discretion of the Board, an Executive Director, one or
 more Vice-Presidents, one or more Assistant Secretaries and/or Assistant Treasurers, and such other
 Officers with such titles, terms of office and duties as may be elected in accordance with the provisions of
-### Section 6.3. The President shall be nominated by the Platinum Members, and shall preside over meetings
+Section 6.3. The President shall be nominated by the Platinum Members, and shall preside over meetings
 of the Board. No two offices may be held by the same person and no two Officers may be employed by the
 same Company, unless there are fewer than four Directors at such time.
 
 ### Section 6.2 Vacancies
 
-A vacancy in any office because of death, resignation, removal, disqualification or any other cause shall be
-filled in the manner prescribed in these By-laws for regular elections to such office and may be filled by the
-Board, at its discretion.
+A vacancy in any office because of death, resignation, removal, disqualification or any
+other cause shall be filled in the manner prescribed in these By-laws for regular elections to such
+office and may be filled by the Board, at its discretion.
 
 ### Section 6.3 Election
 
-The Board at its annual meeting each year shall choose a President, an Executive Director, a Secretary and
-a Treasurer. Other Officers may be elected by the Board at any such meeting, and any or all Officers may
-be replaced, at any other meeting of, or by written consent of, the Board.
+The Board at its annual meeting each year shall choose a President, an Executive Director,
+a Secretary and a Treasurer. Other Officers may be elected by the Board at any such meeting,
+and any or all Officers may be replaced, at any other meeting of, or by written consent of, the
+Board.
 
 ### Section 6.4 Tenure
 
-Each Officer of the $FOUNDATION shall hold office until his or her successor is chosen and qualifies, unless
-a different term is specified in the vote choosing or electing him, or until his or her earlier death,
-resignation or removal. Any Officer elected by the Board may be removed at any time by the Board or a
-Board Committee duly authorized to do so. Any Officer may resign by delivering his or her written
-resignation to the $FOUNDATION at its principal place of business or to the Secretary. Such resignation shall
-
-be effective upon receipt unless it is specified to be effective at some other time or upon the happening of
-some other event.
+Each Officer of the $FOUNDATION shall hold office until his or her successor is chosen and
+qualifies, unless a different term is specified in the vote choosing or electing him, or until his or
+her earlier death, resignation or removal. Any Officer elected by the Board may be removed at
+any time by the Board or a Board Committee duly authorized to do so. Any Officer may resign
+by delivering his or her written resignation to the $FOUNDATION at its principal place of business or
+to the Secretary. Such resignation shall be effective upon receipt unless it is specified to be
+effective at some other time or upon the happening of some other event.
 
 ### Section 6.5 President and Executive Director
 
-(a)      The President shall have all of the powers normally associated with the role of chief executive
-officer and preside at all meetings of the Board and the Members, in addition to any other power granted
-the President under these By-laws or by applicable law. The President shall oversee the management of the
-business of the $FOUNDATION and see that all orders and resolutions of the Board are carried into effect.
-Without limiting the foregoing, the President shall: (i) Execute bonds, mortgages, and other contracts
-requiring a seal, under the seal of the $FOUNDATION, except where required or permitted by law to be
-otherwise signed and executed and except where the signing and execution thereof shall be expressly
-delegated by the Board to some other Officer or agent of the $FOUNDATION; and (ii) Oversee the Executive
-Director (if any).
-
-(b)      The Executive Director (if any) shall preside over the day-to-day affairs of the Foundation under
-the direction of the Board and the President and perform such other duties and have such other powers as
-the Board or the President may from time to time prescribe.
+(a) The President shall have all of the powers normally associated with the role of
+chief executive officer and preside at all meetings of the Board and the Members, in addition to
+any other power granted the President under these By-laws or by applicable law. The
+President shall oversee the management of the business of the $FOUNDATION and see that all
+orders and resolutions of the Board are carried into effect. Without limiting the foregoing, the
+President shall:
+ (i) Execute bonds, mortgages, and other contracts requiring a seal, under the seal
+of the $FOUNDATION, except where required or permitted by law to be otherwise signed and
+executed and except where the signing and execution thereof shall be expressly delegated
+by the Board to some other Officer or agent of the $FOUNDATION; and
+ (ii) Oversee the Executive Director (if any).
+(b) The Executive Director (if any) shall preside over the day-to-day affairs of the
+$FOUNDATION under the direction of the Board and the President and perform such other duties
+and have such other powers as the Board or the President may from time to time prescribe.
 
 ### Section 6.6 Vice-Presidents
 
@@ -772,20 +776,21 @@ Board or the President may from time to time prescribe.
 
 ### Section 6.7 Secretary
 
-The Secretary shall have such powers and perform such duties as are incident to the office of Secretary
-under the General Corporation Law of Delaware, including without limitation a recording all the
-proceedings of the meetings of the $FOUNDATION and of the Board. The Secretary, and each Assistant
-Secretary, shall have authority to affix the Corporate seal to any instrument requiring it and when so
-affixed, it may be attested by signature of the Secretary or by the signature of such Assistant
-Secretary. The Board may give general authority to any other Officer to affix the seal of the $FOUNDATION
-and to attest the affixing by such Officer's signature.
+The Secretary shall have such powers and perform such duties as are incident to the
+office of Secretary under the General Corporation Law of Delaware, including without limitation
+a recording all the proceedings of the meetings of the $FOUNDATION and of the Board. The
+Secretary, and each Assistant Secretary, shall have authority to affix the Corporate seal to any
+instrument requiring it and when so affixed, it may be attested by signature of the Secretary or by
+the signature of such Assistant Secretary. The Board may give general authority to any other
+Officer to affix the seal of the $FOUNDATION and to attest the affixing by such Officer's signature.
 
 ### Section 6.8 Assistant Secretaries
 
-Any Assistant Secretary shall, in the absence of the Secretary or in the event of his or her inability or
-refusal to act, perform the duties and exercise the powers of the Secretary. In the absence of the Secretary
-or any Assistant Secretary at any meeting of Directors, the person presiding at the meeting shall designate a
-temporary or acting Secretary to keep a record of the meeting.
+Any Assistant Secretary shall, in the absence of the Secretary or in the event of his or her
+inability or refusal to act, perform the duties and exercise the powers of the Secretary. In the
+absence of the Secretary or any Assistant Secretary at any meeting of Directors, the person
+presiding at the meeting shall designate a temporary or acting Secretary to keep a record of the
+meeting.
 
 ### Section 6.9 Treasurer
 
