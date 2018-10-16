@@ -465,7 +465,8 @@ serving as a Director is suspended pursuant to Section 2.11 above, the attendanc
 rights of such Director representative shall also be suspended until such time, if ever, as the
 suspension of such Member is lifted.
 - i) Each Platinum, Gold or Silver Director (or the Member that appointed or is the
-employer of such Director), the TSC, and the Individual Director may designate in writing (which designation may be withdrawn in writing at any time by such Director, Member, the
+employer of such Director), the TSC, and the Individual Director may designate in writing
+(which designation may be withdrawn in writing at any time by such Director, Member, the
 TSC, or the Individual Director, as the case may be) an individual to act as a Director in his or
 her stead, whether for a single meeting or as a standing alternate. Any such alternate Director
 shall also be an employee of the Member that appointed or nominated the original Director (except for the alternate of the TSC Director, the alternative for whom shall be another member
